@@ -55,7 +55,7 @@ function getImage($img)
 {
     $arr = explode('/', $img);
     copyImage($img, $arr[6] . '/' . $arr[7] . '/' . $arr[8]);
-    return $arr[6] . '/' . $arr[7] . '/' . $arr[8];
+    return '/' . $arr[6] . '/' . $arr[7] . '/' . $arr[8];
 }
 
 function copyImage($src, $dest)
