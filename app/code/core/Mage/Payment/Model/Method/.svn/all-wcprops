@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method
+END
+Checkmo.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Checkmo.php
+END
+Cashondelivery.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Cashondelivery.php
+END
+Banktransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Banktransfer.php
+END
+Free.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Free.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Abstract.php
+END
+Ccsave.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Ccsave.php
+END
+Cc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Cc.php
+END
+Purchaseorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Model/Method/Purchaseorder.php
+END

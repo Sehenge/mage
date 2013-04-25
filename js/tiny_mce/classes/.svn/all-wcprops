@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes
+END
+LegacyInput.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/LegacyInput.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/Editor.js
+END
+EditorCommands.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/EditorCommands.js
+END
+tinymce.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/tinymce.js
+END
+ControlManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/ControlManager.js
+END
+ForceBlocks.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/ForceBlocks.js
+END
+AddOnManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/AddOnManager.js
+END
+UndoManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/UndoManager.js
+END
+EditorManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/EditorManager.js
+END
+WindowManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/WindowManager.js
+END
+Popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/Popup.js
+END
+Formatter.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/Formatter.js
+END

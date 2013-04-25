@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/sales/order/shipment/view
+END
+items.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/sales/order/shipment/view/items.phtml
+END
+tracking.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/sales/order/shipment/view/tracking.phtml
+END
+form.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/sales/order/shipment/view/form.phtml
+END

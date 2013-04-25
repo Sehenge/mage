@@ -1,0 +1,116 @@
+10
+
+dir
+164466
+http://svn.magentocommerce.com/source/branches/1.7/app/code/core/Mage/Reports/Model/Resource
+http://svn.magentocommerce.com/source
+
+
+
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee4975a1-dc2a-0410-ac7a-f60e980b784d
+
+Helper
+dir
+
+Accounts
+dir
+
+Product
+dir
+
+Shipping
+dir
+
+Event
+dir
+
+Shopcart
+dir
+
+Coupons
+dir
+
+Refunded
+dir
+
+Tax
+dir
+
+Quote
+dir
+
+Invoiced
+dir
+
+Review
+dir
+
+Customer
+dir
+
+Wishlist
+dir
+
+Event.php
+file
+
+
+
+
+2013-02-19T00:21:17.000000Z
+43f5301c0d419a877a6ddac211a10258
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6376
+
+Report
+dir
+
+Order
+dir
+
+Tag
+dir
+
+Entity
+dir
+

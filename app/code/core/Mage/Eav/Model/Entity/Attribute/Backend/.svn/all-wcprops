@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend
+END
+Serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Serialized.php
+END
+Datetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Datetime.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Store.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Array.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Abstract.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Default.php
+END
+Increment.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Increment.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge
+END
+Authorizenet.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Authorizenet.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Abstract.php
+END
+Paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Paypal.php
+END
+Paypaluk.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Paypaluk.php
+END
+Verisign.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Verisign.php
+END

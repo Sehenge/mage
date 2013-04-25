@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend
+END
+Minqty.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Minqty.php
+END
+Qtyincrements.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Qtyincrements.php
+END
+Minsaleqty.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Minsaleqty.php
+END

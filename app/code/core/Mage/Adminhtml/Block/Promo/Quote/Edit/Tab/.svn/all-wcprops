@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab
+END
+Conditions.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab/Conditions.php
+END
+Actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab/Actions.php
+END
+Labels.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab/Labels.php
+END
+Main.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab/Main.php
+END
+Coupons.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Promo/Quote/Edit/Tab/Coupons.php
+END

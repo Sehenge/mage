@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/SalesRule/Model/Resource/Rule
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/SalesRule/Model/Resource/Rule/Collection.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/SalesRule/Model/Resource/Rule/Product.php
+END
+Customer.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/SalesRule/Model/Resource/Rule/Customer.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install
+END
+locale.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/locale.phtml
+END
+state.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/state.phtml
+END
+begin.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/begin.phtml
+END
+config.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/config.phtml
+END
+end.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/end.phtml
+END
+download.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/download.phtml
+END
+create_admin.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/install/default/default/template/install/create_admin.phtml
+END

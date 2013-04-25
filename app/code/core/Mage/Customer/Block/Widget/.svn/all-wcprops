@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget/Name.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget/Abstract.php
+END
+Dob.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget/Dob.php
+END
+Gender.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget/Gender.php
+END
+Taxvat.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Block/Widget/Taxvat.php
+END

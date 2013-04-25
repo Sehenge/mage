@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Status
+END
+New.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Status/New.php
+END
+Assign.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Status/Assign.php
+END
+Edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Status/Edit.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Status/Grid.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Reports/Model/Mysql4/Product/Index
+END
+Compared.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Reports/Model/Mysql4/Product/Index/Compared.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Reports/Model/Mysql4/Product/Index/Abstract.php
+END
+Viewed.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Reports/Model/Mysql4/Product/Index/Viewed.php
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product
+END
+gallery.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/gallery.phtml
+END
+price_msrp_item.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/price_msrp_item.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/price.phtml
+END
+price_msrp.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/price_msrp.phtml
+END
+price_msrp_noform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/price_msrp_noform.phtml
+END
+new.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/new.phtml
+END
+price_msrp_rss.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/price_msrp_rss.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view.phtml
+END
+list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/list.phtml
+END

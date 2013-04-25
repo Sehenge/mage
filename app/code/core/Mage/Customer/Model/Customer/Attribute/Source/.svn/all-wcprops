@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Customer/Attribute/Source
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Customer/Attribute/Source/Group.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Customer/Attribute/Source/Store.php
+END
+Website.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Customer/Attribute/Source/Website.php
+END

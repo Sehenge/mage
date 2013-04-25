@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Seo/Sitemap
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Seo/Sitemap/Category.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Seo/Sitemap/Product.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Seo/Sitemap/Abstract.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Template.php
+END
+Id.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Id.php
+END
+Action.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Action.php
+END
+Pushtitle.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Pushtitle.php
+END
+Application.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Application.php
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Status.php
+END
+Msgtitle.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Queue/Grid/Renderer/Msgtitle.php
+END

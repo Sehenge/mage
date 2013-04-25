@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tax/Model
+END
+Calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tax/Model/Calculation.php
+END
+Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tax/Model/Class.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tax/Model/Config.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tax/Model/Observer.php
+END

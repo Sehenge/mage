@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Indexer
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Indexer/Price.php
+END
+Stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Indexer/Stock.php
+END

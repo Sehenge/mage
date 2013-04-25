@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource
+END
+Bundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Bundle.php
+END
+Selection.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Selection.php
+END
+Option.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Bundle/Model/Resource/Option.php
+END

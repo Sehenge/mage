@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/source/!svn/ver/152805/branches/1.7/lib/Mage/DB
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/152805/branches/1.7/lib/Mage/DB/Exception.php
+END
+Mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/Mage/DB/Mysqli.php
+END

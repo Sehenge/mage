@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Source/Export
+END
+Entity.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Source/Export/Entity.php
+END
+Format.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Source/Export/Format.php
+END

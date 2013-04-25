@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152805/branches/1.7/downloader/lib/Mage/Connect/Package/Extension.php
+END
+Writer.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package/Writer.php
+END
+Hotfix.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package/Hotfix.php
+END
+Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package/Reader.php
+END
+VO.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package/VO.php
+END
+Target.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Package/Target.php
+END
+Maintainer.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152805/branches/1.7/downloader/lib/Mage/Connect/Package/Maintainer.php
+END

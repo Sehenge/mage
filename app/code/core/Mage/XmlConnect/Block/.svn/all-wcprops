@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block
+END
+Cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Cart.php
+END
+Catalog.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Catalog.php
+END
+Wishlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Wishlist.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Configuration.php
+END
+Home.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Home.php
+END

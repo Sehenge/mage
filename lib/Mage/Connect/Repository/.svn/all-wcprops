@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Repository
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Repository/Local.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Repository/Abstract.php
+END
+Channel.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Repository/Channel.php
+END

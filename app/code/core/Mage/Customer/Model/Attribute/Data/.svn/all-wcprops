@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data
+END
+Multiselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Multiselect.php
+END
+Hidden.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Hidden.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Date.php
+END
+Textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Textarea.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Boolean.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/File.php
+END
+Select.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Select.php
+END
+Postcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Postcode.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Image.php
+END
+Multiline.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Multiline.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Abstract.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Attribute/Data/Text.php
+END

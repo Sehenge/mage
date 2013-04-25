@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab
+END
+Design.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Design.php
+END
+Content.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Content.php
+END
+Social.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Social.php
+END
+Flurryanalytics.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Flurryanalytics.php
+END
+General.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/General.php
+END
+Payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Payment.php
+END
+Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Settings.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Cache.php
+END
+Notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Adminhtml/Mobile/Edit/Tab/Notification.php
+END

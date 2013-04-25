@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Search/QueryEntry
+END
+Subquery.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Search/QueryEntry/Subquery.php
+END
+Phrase.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Search/QueryEntry/Phrase.php
+END
+Term.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Search/QueryEntry/Term.php
+END

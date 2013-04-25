@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Notification/Grid/Renderer
+END
+Severity.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Notification/Grid/Renderer/Severity.php
+END
+Actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Notification/Grid/Renderer/Actions.php
+END
+Notice.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Notification/Grid/Renderer/Notice.php
+END

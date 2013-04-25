@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/source/!svn/ver/152836/branches/1.7/lib/Varien/Pear
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152836/branches/1.7/lib/Varien/Pear/Package.php
+END
+Frontend.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/lib/Varien/Pear/Frontend.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/lib/Varien/Pear/Registry.php
+END

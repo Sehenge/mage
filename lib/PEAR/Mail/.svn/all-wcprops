@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail
+END
+xmail.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail/xmail.xsl
+END
+mimeDecode.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail/mimeDecode.php
+END
+mimePart.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail/mimePart.php
+END
+xmail.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail/xmail.dtd
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/Mail/mime.php
+END

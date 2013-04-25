@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/Model
+END
+Cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/Model/Cart.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/Model/Session.php
+END
+Agreement.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/Model/Agreement.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/Model/Observer.php
+END

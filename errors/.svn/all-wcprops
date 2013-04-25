@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/source/!svn/ver/152836/branches/1.7/errors
+END
+report.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/source/!svn/ver/152836/branches/1.7/errors/report.php
+END
+processor.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/source/!svn/ver/152836/branches/1.7/errors/processor.php
+END
+design.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/source/!svn/ver/152836/branches/1.7/errors/design.xml
+END
+local.xml.sample
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152836/branches/1.7/errors/local.xml.sample
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/source/!svn/ver/152805/branches/1.7/errors/.htaccess
+END
+404.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/source/!svn/ver/152836/branches/1.7/errors/404.php
+END
+503.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/source/!svn/ver/152836/branches/1.7/errors/503.php
+END

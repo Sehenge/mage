@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Channel
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Channel/Parser.php
+END
+VO.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Channel/VO.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Connect/Channel/Generator.php
+END

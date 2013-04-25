@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist
+END
+options_list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist/options_list.phtml
+END
+shared.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist/shared.phtml
+END
+sidebar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist/sidebar.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist/view.phtml
+END
+sharing.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/wishlist/sharing.phtml
+END

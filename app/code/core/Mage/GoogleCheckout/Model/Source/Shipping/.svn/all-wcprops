@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Source/Shipping
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Source/Shipping/Category.php
+END
+Units.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Source/Shipping/Units.php
+END
+Carrier.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Source/Shipping/Carrier.php
+END

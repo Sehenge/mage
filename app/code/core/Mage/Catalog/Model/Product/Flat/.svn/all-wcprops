@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Flat
+END
+Flag.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Flat/Flag.php
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Flat/Indexer.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Flat/Observer.php
+END

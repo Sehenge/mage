@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Feed/Writer/Extension
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Feed/Writer/Extension/RendererAbstract.php
+END
+RendererInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Feed/Writer/Extension/RendererInterface.php
+END

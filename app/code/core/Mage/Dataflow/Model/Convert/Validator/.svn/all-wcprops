@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Convert/Validator
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Convert/Validator/Column.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Convert/Validator/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Convert/Validator/Abstract.php
+END
+Dryrun.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Convert/Validator/Dryrun.php
+END

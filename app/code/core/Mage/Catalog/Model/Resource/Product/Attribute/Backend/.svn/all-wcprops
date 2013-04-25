@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend
+END
+Urlkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Urlkey.php
+END
+Groupprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Groupprice.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Media.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Image.php
+END
+Tierprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Tierprice.php
+END

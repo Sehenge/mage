@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Invoice/Attribute/Backend
+END
+Parent.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Invoice/Attribute/Backend/Parent.php
+END
+Order.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Invoice/Attribute/Backend/Order.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Invoice/Attribute/Backend/Item.php
+END
+Child.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Invoice/Attribute/Backend/Child.php
+END

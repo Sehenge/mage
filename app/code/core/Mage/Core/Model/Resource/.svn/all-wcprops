@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Iterator.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Store.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Translate.php
+END
+Setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Setup.php
+END
+Website.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Website.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Cache.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Abstract.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Config.php
+END
+Flag.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Flag.php
+END
+Design.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Design.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Layout.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Session.php
+END
+Language.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Language.php
+END
+Variable.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Variable.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Transaction.php
+END
+Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Resource/Resource.php
+END

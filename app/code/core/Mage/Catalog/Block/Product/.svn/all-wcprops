@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product
+END
+New.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/New.php
+END
+Send.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/Send.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View.php
+END
+List.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/List.php
+END
+Gallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/Gallery.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/Abstract.php
+END

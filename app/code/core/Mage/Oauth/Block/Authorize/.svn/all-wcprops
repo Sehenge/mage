@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Authorize
+END
+ButtonBaseAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Authorize/ButtonBaseAbstract.php
+END
+Button.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Authorize/Button.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Authorize/Abstract.php
+END

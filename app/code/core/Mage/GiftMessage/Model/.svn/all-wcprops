@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Model
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Model/Api.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Model/Message.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Model/Observer.php
+END

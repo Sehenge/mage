@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/paypal/payflowadvanced
+END
+redirect.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/paypal/payflowadvanced/redirect.phtml
+END
+form.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/paypal/payflowadvanced/form.phtml
+END
+iframe.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/paypal/payflowadvanced/iframe.phtml
+END
+info.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/paypal/payflowadvanced/info.phtml
+END

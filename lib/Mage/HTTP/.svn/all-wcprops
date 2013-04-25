@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/source/!svn/ver/152805/branches/1.7/lib/Mage/HTTP
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/152805/branches/1.7/lib/Mage/HTTP/Client.php
+END
+IClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/152805/branches/1.7/lib/Mage/HTTP/IClient.php
+END

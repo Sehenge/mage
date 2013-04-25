@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Paginator
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Paginator/Exception.php
+END
+SerializableLimitIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Paginator/SerializableLimitIterator.php
+END
+AdapterAggregate.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Paginator/AdapterAggregate.php
+END

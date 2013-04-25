@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Centinel/Model/State
+END
+Jcb.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Centinel/Model/State/Jcb.php
+END
+Visa.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Centinel/Model/State/Visa.php
+END
+Mastercard.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Centinel/Model/State/Mastercard.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Persistent/etc
+END
+persistent.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Persistent/etc/persistent.xml
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Persistent/etc/system.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Persistent/etc/config.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Persistent/etc/adminhtml.xml
+END

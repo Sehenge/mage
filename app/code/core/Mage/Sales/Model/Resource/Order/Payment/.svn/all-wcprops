@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Payment
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Payment/Collection.php
+END
+Transaction.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Order/Payment/Transaction.php
+END

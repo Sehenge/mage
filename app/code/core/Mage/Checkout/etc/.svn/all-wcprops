@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc
+END
+wsi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/app/code/core/Mage/Checkout/etc/wsi.xml
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc/system.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc/config.xml
+END
+jstranslator.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc/jstranslator.xml
+END
+api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc/api.xml
+END
+wsdl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152805/branches/1.7/app/code/core/Mage/Checkout/etc/wsdl.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Checkout/etc/adminhtml.xml
+END

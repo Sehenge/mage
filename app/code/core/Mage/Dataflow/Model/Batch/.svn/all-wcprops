@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Batch
+END
+Import.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Batch/Import.php
+END
+Export.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Batch/Export.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Batch/Abstract.php
+END
+Io.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Dataflow/Model/Batch/Io.php
+END

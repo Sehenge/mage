@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Rate
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Rate/Result.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Rate/Abstract.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Rate/Request.php
+END

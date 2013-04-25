@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View
+END
+Tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Tabs.php
+END
+Options.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Options.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Media.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Abstract.php
+END
+Description.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Description.php
+END
+Attributes.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Attributes.php
+END
+Additional.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Block/Product/View/Additional.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart
+END
+noItems.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/noItems.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/shipping.phtml
+END
+coupon.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/coupon.phtml
+END
+totals.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/totals.phtml
+END
+crosssell.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/crosssell.phtml
+END
+sidebar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/cart/sidebar.phtml
+END

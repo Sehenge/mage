@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/XML
+END
+Serializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/XML/Serializer.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/XML/Parser.php
+END
+Unserializer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/XML/Unserializer.php
+END

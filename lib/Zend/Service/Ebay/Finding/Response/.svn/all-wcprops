@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding/Response
+END
+Histograms.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding/Response/Histograms.php
+END
+Items.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding/Response/Items.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding/Response/Abstract.php
+END
+Keywords.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding/Response/Keywords.php
+END

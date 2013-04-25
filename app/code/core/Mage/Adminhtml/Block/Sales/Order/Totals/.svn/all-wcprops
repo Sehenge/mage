@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Totals
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Totals/Tax.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Totals/Item.php
+END

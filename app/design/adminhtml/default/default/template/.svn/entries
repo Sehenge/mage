@@ -1,0 +1,549 @@
+10
+
+dir
+164466
+http://svn.magentocommerce.com/source/branches/1.7/app/design/adminhtml/default/default/template
+http://svn.magentocommerce.com/source
+
+
+
+2012-06-20T15:23:49.065646Z
+156553
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee4975a1-dc2a-0410-ac7a-f60e980b784d
+
+media
+dir
+
+currencysymbol
+dir
+
+oauth
+dir
+
+authorizenet
+dir
+
+empty.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+89962e49cd326407e00f7fca6e46e532
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1695
+
+widget
+dir
+
+rating
+dir
+
+system
+dir
+
+notification
+dir
+
+paypal
+dir
+
+email
+dir
+
+overlay_popup.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+94e2b20c69e388247f7593e13e4cc627
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2195
+
+downloadable
+dir
+
+login.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+dfbf940938db3d5e21ad6a6bb74d4f8d
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4827
+
+newsletter
+dir
+
+promo
+dir
+
+giftmessage
+dir
+
+formkey.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+9ccc3d9276e40ce83eeaa828af04e34c
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1097
+
+directory
+dir
+
+urlrewrite
+dir
+
+forgotpassword.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+7aaaacd88dd9b4649878279bb193ea47
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4394
+
+sales
+dir
+
+compiler
+dir
+
+eav
+dir
+
+report
+dir
+
+tag
+dir
+
+moneybookers
+dir
+
+resetforgottenpassword.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+179bfd294427de2afddf26e43ba3419f
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4991
+
+shipping
+dir
+
+cms
+dir
+
+weee
+dir
+
+popup.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+211a30735ddde8da665b221e0b923531
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3534
+
+dashboard
+dir
+
+usa
+dir
+
+connect
+dir
+
+paygate
+dir
+
+api2
+dir
+
+store
+dir
+
+tax
+dir
+
+access_denied.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+d5bed07c639925ce1752c0e10ae61b5f
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1473
+
+coming.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+d078d87fb1dee05dabd24dcb2ebc60e2
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1255
+
+page.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+4e507a52e94165a139ec846cb92331e7
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3908
+
+pagecache
+dir
+
+centinel
+dir
+
+customer
+dir
+
+review
+dir
+
+captcha
+dir
+
+backup
+dir
+
+poll
+dir
+
+index
+dir
+
+googlebase
+dir
+
+api
+dir
+
+bundle
+dir
+
+catalog
+dir
+
+xmlconnect
+dir
+
+permissions
+dir
+
+importexport
+dir
+
+page
+dir
+
+payment
+dir
+
+example.phtml
+file
+
+
+
+
+2013-02-19T00:21:03.000000Z
+10e6bdf1b32eadbed75d35538c53b9e3
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18704
+

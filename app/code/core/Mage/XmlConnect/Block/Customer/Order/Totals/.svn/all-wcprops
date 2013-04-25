@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Totals
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Totals/Tax.php
+END
+Giftcards.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Totals/Giftcards.php
+END
+Customerbalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Totals/Customerbalance.php
+END

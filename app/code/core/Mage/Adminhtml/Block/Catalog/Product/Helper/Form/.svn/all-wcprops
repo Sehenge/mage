@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Boolean.php
+END
+Gallery.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Gallery.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Image.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Price.php
+END
+Apply.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Apply.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Config.php
+END
+Weight.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Helper/Form/Weight.php
+END

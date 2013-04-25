@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/newsletter/queue
+END
+preview.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/newsletter/queue/preview.phtml
+END
+edit.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/newsletter/queue/edit.phtml
+END
+list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/newsletter/queue/list.phtml
+END

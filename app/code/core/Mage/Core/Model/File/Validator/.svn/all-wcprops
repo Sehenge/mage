@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/File/Validator
+END
+AvailablePath.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/File/Validator/AvailablePath.php
+END
+NotProtectedExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/File/Validator/NotProtectedExtension.php
+END

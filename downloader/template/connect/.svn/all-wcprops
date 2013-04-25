@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152836/branches/1.7/downloader/template/connect
+END
+packages_prepare.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/downloader/template/connect/packages_prepare.phtml
+END
+packages.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/downloader/template/connect/packages.phtml
+END
+iframe.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/downloader/template/connect/iframe.phtml
+END

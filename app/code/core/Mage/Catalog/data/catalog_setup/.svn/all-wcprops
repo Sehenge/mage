@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup
+END
+data-install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup/data-install-1.6.0.0.php
+END
+data-upgrade-1.6.0.0.12-1.6.0.0.13.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.12-1.6.0.0.13.php
+END
+data-upgrade-1.6.0.0.13-1.6.0.0.14.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.13-1.6.0.0.14.php
+END
+data-upgrade-1.6.0.0.4-1.6.0.0.5.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.4-1.6.0.0.5.php
+END
+data-upgrade-1.6.0.0.8-1.6.0.0.9.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.8-1.6.0.0.9.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Email
+END
+Info.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Email/Info.php
+END
+Template.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Email/Template.php
+END
+Transport.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Core/Model/Email/Transport.php
+END

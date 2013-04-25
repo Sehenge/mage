@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books
+END
+VolumeEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books/VolumeEntry.php
+END
+VolumeFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books/VolumeFeed.php
+END
+CollectionEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books/CollectionEntry.php
+END
+VolumeQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books/VolumeQuery.php
+END
+CollectionFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Gdata/Books/CollectionFeed.php
+END

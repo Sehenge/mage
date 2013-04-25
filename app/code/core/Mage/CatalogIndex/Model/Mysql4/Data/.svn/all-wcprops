@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Data
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Data/Configurable.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Data/Abstract.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Data/Grouped.php
+END

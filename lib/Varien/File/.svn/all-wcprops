@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/source/!svn/ver/152836/branches/1.7/lib/Varien/File
+END
+Csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/Varien/File/Csv.php
+END
+Uploader.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/lib/Varien/File/Uploader.php
+END
+CsvMulty.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Varien/File/CsvMulty.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152836/branches/1.7/lib/Varien/File/Object.php
+END

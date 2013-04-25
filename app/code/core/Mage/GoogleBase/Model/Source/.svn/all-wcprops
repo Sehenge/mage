@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleBase/Model/Source
+END
+Statuses.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleBase/Model/Source/Statuses.php
+END
+Accounttype.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleBase/Model/Source/Accounttype.php
+END
+Authtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleBase/Model/Source/Authtype.php
+END
+Country.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleBase/Model/Source/Country.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/etc
+END
+wsi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/app/code/core/Mage/Tag/etc/wsi.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/etc/config.xml
+END
+api.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/etc/api.xml
+END
+wsdl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/app/code/core/Mage/Tag/etc/wsdl.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/etc/adminhtml.xml
+END

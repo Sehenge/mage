@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/total
+END
+tax.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/total/tax.phtml
+END
+nominal.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/total/nominal.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/total/default.phtml
+END

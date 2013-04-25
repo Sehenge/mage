@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales
+END
+ShipmentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales/ShipmentController.php
+END
+CreditmemoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales/CreditmemoController.php
+END
+TransactionsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales/TransactionsController.php
+END
+OrderController.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales/OrderController.php
+END
+InvoiceController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Sales/InvoiceController.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Api2/Model/Acl/Global/Rule
+END
+Tree.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Api2/Model/Acl/Global/Rule/Tree.php
+END
+ResourcePermission.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Api2/Model/Acl/Global/Rule/ResourcePermission.php
+END
+Privilege.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Api2/Model/Acl/Global/Rule/Privilege.php
+END
+Permission.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Api2/Model/Acl/Global/Rule/Permission.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Report/Order
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Report/Order/Collection.php
+END
+Updatedat.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Report/Order/Updatedat.php
+END
+Createdat.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Resource/Report/Order/Createdat.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP
+END
+WSDL.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/WSDL.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Base.php
+END
+Fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Fault.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Parser.php
+END
+Transport.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Transport.php
+END
+Value.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Value.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/152805/branches/1.7/lib/PEAR/SOAP/Client.php
+END

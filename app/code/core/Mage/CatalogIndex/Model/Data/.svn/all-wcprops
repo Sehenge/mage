@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data
+END
+Simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data/Simple.php
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data/Configurable.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data/Abstract.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data/Grouped.php
+END
+Virtual.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Data/Virtual.php
+END

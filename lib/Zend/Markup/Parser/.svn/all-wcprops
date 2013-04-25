@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Parser
+END
+ParserInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Parser/ParserInterface.php
+END
+Bbcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Parser/Bbcode.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Parser/Exception.php
+END
+Textile.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Parser/Textile.php
+END

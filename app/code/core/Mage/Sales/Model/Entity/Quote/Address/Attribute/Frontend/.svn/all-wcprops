@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend
+END
+Grand.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Grand.php
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Tax.php
+END
+Subtotal.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Subtotal.php
+END
+Shipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Shipping.php
+END
+Custbalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Custbalance.php
+END
+Discount.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Frontend/Discount.php
+END

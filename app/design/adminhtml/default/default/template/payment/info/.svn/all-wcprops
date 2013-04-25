@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/info
+END
+banktransfer.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/info/banktransfer.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/info/default.phtml
+END
+purchaseorder.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/info/purchaseorder.phtml
+END
+checkmo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/info/checkmo.phtml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Storage/File
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Storage/File/Filesystem.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Storage/File/Memory.php
+END

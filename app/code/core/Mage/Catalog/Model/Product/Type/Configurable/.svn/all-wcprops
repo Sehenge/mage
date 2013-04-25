@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Type/Configurable
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Type/Configurable/Price.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Type/Configurable/Attribute.php
+END

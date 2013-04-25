@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Api.php
+END
+Payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Payment.php
+END
+Shipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Shipping.php
+END
+Notification.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Notification.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GoogleCheckout/Model/Observer.php
+END

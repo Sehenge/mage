@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Resource/Address/Attribute/Backend
+END
+Region.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Resource/Address/Attribute/Backend/Region.php
+END
+Street.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Customer/Model/Resource/Address/Attribute/Backend/Street.php
+END

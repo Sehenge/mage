@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/System/Store
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/System/Store/Store.php
+END
+Delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/System/Store/Delete.php
+END
+Edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/System/Store/Edit.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/System/Store/Grid.php
+END

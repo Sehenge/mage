@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier
+END
+Pickup.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Pickup.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Interface.php
+END
+Flatrate.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Flatrate.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Abstract.php
+END
+Freeshipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Freeshipping.php
+END
+Tablerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Shipping/Model/Carrier/Tablerate.php
+END

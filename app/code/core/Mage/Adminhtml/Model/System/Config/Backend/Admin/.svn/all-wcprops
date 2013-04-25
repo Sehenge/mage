@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin
+END
+Custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Custom.php
+END
+Usesecretkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Usesecretkey.php
+END
+Usecustompath.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Usecustompath.php
+END
+Custompath.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Custompath.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Observer.php
+END
+Usecustom.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Admin/Usecustom.php
+END

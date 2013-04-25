@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View
+END
+Tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Tabs.php
+END
+Info.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Info.php
+END
+Giftmessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Giftmessage.php
+END
+History.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/History.php
+END
+Items.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Items.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Form.php
+END
+Messages.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/View/Messages.php
+END

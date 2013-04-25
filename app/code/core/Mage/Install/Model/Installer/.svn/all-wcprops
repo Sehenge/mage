@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Install/Model/Installer
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Data.php
+END
+Console.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Install/Model/Installer/Console.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Abstract.php
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Filesystem.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Config.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Db.php
+END
+Pear.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Pear.php
+END
+Env.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Install/Model/Installer/Env.php
+END

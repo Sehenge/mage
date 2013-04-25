@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup
+END
+Nomedia.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Nomedia.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Exception.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Media.php
+END
+Snapshot.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Snapshot.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Abstract.php
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Filesystem.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Backup/Db.php
+END

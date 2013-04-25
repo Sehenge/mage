@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/source/!svn/ver/152805/branches/1.7/lib/Zend/OpenId
+END
+Provider.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/OpenId/Provider.php
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/OpenId/Consumer.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/Zend/OpenId/Extension.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/Zend/OpenId/Exception.php
+END

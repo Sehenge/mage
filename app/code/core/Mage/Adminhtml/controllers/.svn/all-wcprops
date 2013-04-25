@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Adminhtml/controllers
+END
+NotificationController.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/NotificationController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/DashboardController.php
+END
+PromoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/PromoController.php
+END
+SurveyController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/SurveyController.php
+END
+CustomerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/CustomerController.php
+END
+SitemapController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/SitemapController.php
+END
+CacheController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/CacheController.php
+END
+UrlrewriteController.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/UrlrewriteController.php
+END
+PollController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/PollController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/IndexController.php
+END
+SalesController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/SalesController.php
+END
+JsonController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/JsonController.php
+END
+CatalogController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/CatalogController.php
+END
+ReportController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/ReportController.php
+END
+TagController.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/TagController.php
+END
+AjaxController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/AjaxController.php
+END
+SystemController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/SystemController.php
+END
+RatingController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/RatingController.php
+END

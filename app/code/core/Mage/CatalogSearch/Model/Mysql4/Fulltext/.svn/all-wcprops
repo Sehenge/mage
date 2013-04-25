@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogSearch/Model/Mysql4/Fulltext
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogSearch/Model/Mysql4/Fulltext/Collection.php
+END
+Engine.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogSearch/Model/Mysql4/Fulltext/Engine.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend
+END
+Serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Serialized.php
+END
+Datashare.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Datashare.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Store.php
+END
+Translate.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Translate.php
+END
+Encrypted.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Encrypted.php
+END
+Baseurl.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Baseurl.php
+END
+Locale.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Locale.php
+END
+Sitemap.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Sitemap.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Cache.php
+END
+Cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Cookie.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Category.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/File.php
+END
+Filename.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Filename.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Image.php
+END
+Secure.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Backend/Secure.php
+END

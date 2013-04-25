@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter
+END
+Logical.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Logical.php
+END
+Mask.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Mask.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Exception.php
+END
+Not.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Not.php
+END
+Or.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Or.php
+END
+And.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/And.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/Abstract.php
+END
+String.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Ldap/Filter/String.php
+END

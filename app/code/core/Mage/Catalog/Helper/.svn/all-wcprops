@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Data.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Category.php
+END
+Map.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Map.php
+END
+Output.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Output.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Product.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Helper/Image.php
+END

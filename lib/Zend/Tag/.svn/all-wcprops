@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag
+END
+ItemList.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag/ItemList.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag/Exception.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag/Item.php
+END
+Cloud.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag/Cloud.php
+END
+Taggable.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tag/Taggable.php
+END

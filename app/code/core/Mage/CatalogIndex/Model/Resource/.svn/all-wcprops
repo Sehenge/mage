@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Indexer.php
+END
+Setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Setup.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Abstract.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Attribute.php
+END
+Aggregation.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Aggregation.php
+END
+Retreiver.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Resource/Retreiver.php
+END

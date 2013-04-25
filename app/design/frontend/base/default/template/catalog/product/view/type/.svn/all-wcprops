@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type
+END
+configurable.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type/configurable.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type/default.phtml
+END
+grouped.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type/grouped.phtml
+END
+virtual.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type/virtual.phtml
+END
+simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/type/simple.phtml
+END

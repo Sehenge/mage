@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product
+END
+gallery.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/gallery.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/price.phtml
+END
+price_msrp.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/price_msrp.phtml
+END
+price_msrp_noform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/price_msrp_noform.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/view.phtml
+END
+list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/default/iphone/template/catalog/product/list.phtml
+END

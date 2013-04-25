@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152836/branches/1.7/downloader/template/install
+END
+footer.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/downloader/template/install/footer.phtml
+END
+download.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/downloader/template/install/download.phtml
+END
+header.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/downloader/template/install/header.phtml
+END
+writable.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/downloader/template/install/writable.phtml
+END

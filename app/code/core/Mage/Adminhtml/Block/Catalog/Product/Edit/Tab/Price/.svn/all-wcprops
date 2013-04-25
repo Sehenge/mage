@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Edit/Tab/Price
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Edit/Tab/Price/Group.php
+END
+Recurring.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Edit/Tab/Price/Recurring.php
+END
+Tier.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Catalog/Product/Edit/Tab/Price/Tier.php
+END

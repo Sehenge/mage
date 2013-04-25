@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Group.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Store.php
+END
+Payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Payment.php
+END
+Global.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Global.php
+END
+Hint.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Hint.php
+END
+Expanded.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Expanded.php
+END
+Location.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Paypal/Block/Adminhtml/System/Config/Fieldset/Location.php
+END

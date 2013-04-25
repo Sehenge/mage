@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/source/!svn/ver/152805/branches/1.7/lib/Zend/InfoCard
+END
+Cipher.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/InfoCard/Cipher.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/InfoCard/Exception.php
+END
+Claims.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/InfoCard/Claims.php
+END

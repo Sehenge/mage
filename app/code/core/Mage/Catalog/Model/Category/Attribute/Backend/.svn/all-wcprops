@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend
+END
+Urlkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend/Urlkey.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend/Image.php
+END
+Sortby.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Category/Attribute/Backend/Sortby.php
+END

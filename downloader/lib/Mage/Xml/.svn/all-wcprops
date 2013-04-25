@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Xml
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Xml/Parser.php
+END
+Generator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/downloader/lib/Mage/Xml/Generator.php
+END

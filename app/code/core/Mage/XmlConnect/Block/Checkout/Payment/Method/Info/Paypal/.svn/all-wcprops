@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal
+END
+Express.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Express.php
+END
+Mecl.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Mecl.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Abstract.php
+END

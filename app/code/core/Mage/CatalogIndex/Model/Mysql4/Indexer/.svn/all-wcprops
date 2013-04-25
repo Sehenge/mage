@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Indexer
+END
+Minimalprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Indexer/Minimalprice.php
+END
+Eav.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Indexer/Eav.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Indexer/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogIndex/Model/Mysql4/Indexer/Abstract.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Newsletter
+END
+TemplateController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Newsletter/TemplateController.php
+END
+ProblemController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Newsletter/ProblemController.php
+END
+SubscriberController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Newsletter/SubscriberController.php
+END
+QueueController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/Newsletter/QueueController.php
+END

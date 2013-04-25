@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Cmap
+END
+TrimmedTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Cmap/TrimmedTable.php
+END
+ByteEncoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Cmap/ByteEncoding.php
+END
+SegmentToDelta.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Cmap/SegmentToDelta.php
+END

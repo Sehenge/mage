@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Oauth/Http
+END
+RequestToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Oauth/Http/RequestToken.php
+END
+UserAuthorization.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Oauth/Http/UserAuthorization.php
+END
+AccessToken.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Oauth/Http/AccessToken.php
+END
+Utility.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Oauth/Http/Utility.php
+END

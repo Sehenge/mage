@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command
+END
+Channels.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Channels.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Package.php
+END
+Remote.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Remote.php
+END
+Config_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Config_Header.php
+END
+Install_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Install_Header.php
+END
+Registry_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Registry_Header.php
+END
+Channels_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Channels_Header.php
+END
+Package_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Package_Header.php
+END
+Remote_Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Remote_Header.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Config.php
+END
+Install.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Install.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152805/branches/1.7/lib/Mage/Connect/Command/Registry.php
+END

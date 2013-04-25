@@ -1,0 +1,154 @@
+10
+
+dir
+164466
+http://svn.magentocommerce.com/source/branches/1.7/app/design/frontend/base/default/template
+http://svn.magentocommerce.com/source
+
+
+
+2012-06-20T15:23:49.065646Z
+156553
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee4975a1-dc2a-0410-ac7a-f60e980b784d
+
+oauth
+dir
+
+authorizenet
+dir
+
+rating
+dir
+
+googleanalytics
+dir
+
+paypaluk
+dir
+
+paypal
+dir
+
+email
+dir
+
+core
+dir
+
+downloadable
+dir
+
+newsletter
+dir
+
+giftmessage
+dir
+
+reports
+dir
+
+catalogsearch
+dir
+
+googlecheckout
+dir
+
+directory
+dir
+
+checkout
+dir
+
+wishlist
+dir
+
+sales
+dir
+
+productalert
+dir
+
+tag
+dir
+
+moneybookers
+dir
+
+contacts
+dir
+
+sendfriend
+dir
+
+shipping
+dir
+
+cms
+dir
+
+callouts
+dir
+
+cataloginventory
+dir
+
+paygate
+dir
+
+tax
+dir
+
+persistent
+dir
+
+pagecache
+dir
+
+centinel
+dir
+
+customer
+dir
+
+review
+dir
+
+captcha
+dir
+
+poll
+dir
+
+rss
+dir
+
+bundle
+dir
+
+catalog
+dir
+
+xmlconnect
+dir
+
+page
+dir
+
+payment
+dir
+

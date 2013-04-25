@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Layer/Filter
+END
+Decimal.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Layer/Filter/Decimal.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Layer/Filter/Price.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Resource/Layer/Filter/Attribute.php
+END

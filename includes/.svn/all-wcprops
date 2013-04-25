@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/source/!svn/ver/152805/branches/1.7/includes
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/!svn/ver/152805/branches/1.7/includes/.htaccess
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/source/!svn/ver/152805/branches/1.7/includes/config.php
+END

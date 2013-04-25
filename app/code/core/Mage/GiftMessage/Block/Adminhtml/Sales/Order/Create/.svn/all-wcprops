@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Block/Adminhtml/Sales/Order/Create
+END
+Items.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Block/Adminhtml/Sales/Order/Create/Items.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Block/Adminhtml/Sales/Order/Create/Form.php
+END
+Giftoptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/GiftMessage/Block/Adminhtml/Sales/Order/Create/Giftoptions.php
+END

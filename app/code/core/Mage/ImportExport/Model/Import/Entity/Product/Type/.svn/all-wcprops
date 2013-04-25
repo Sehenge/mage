@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Import/Entity/Product/Type
+END
+Simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Import/Entity/Product/Type/Simple.php
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Import/Entity/Product/Type/Configurable.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Import/Entity/Product/Type/Abstract.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ImportExport/Model/Import/Entity/Product/Type/Grouped.php
+END

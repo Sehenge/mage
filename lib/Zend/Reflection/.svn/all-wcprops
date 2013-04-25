@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Extension.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Exception.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/File.php
+END
+Docblock.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Docblock.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Method.php
+END
+Parameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Parameter.php
+END
+Property.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Property.php
+END
+Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Class.php
+END
+Function.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Reflection/Function.php
+END

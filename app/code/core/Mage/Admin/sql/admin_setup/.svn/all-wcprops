@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup
+END
+mysql4-upgrade-1.5.9.9-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-1.5.9.9-1.6.0.0.php
+END
+mysql4-install-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/mysql4-install-0.7.0.php
+END
+mysql4-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-0.7.0-0.7.1.php
+END
+mysql4-upgrade-0.7.1-0.7.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-0.7.1-0.7.2.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/install-1.6.0.0.php
+END
+upgrade-1.6.0.0-1.6.1.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Admin/sql/admin_setup/upgrade-1.6.0.0-1.6.1.0.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource
+END
+ImageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/ImageFactory.php
+END
+Extractor.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/Extractor.php
+END
+GraphicsState.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/GraphicsState.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/Image.php
+END
+Unified.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/Unified.php
+END
+ContentStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/ContentStream.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Pdf/Resource/Font.php
+END

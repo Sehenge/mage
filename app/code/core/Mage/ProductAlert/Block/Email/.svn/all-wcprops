@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ProductAlert/Block/Email
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ProductAlert/Block/Email/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ProductAlert/Block/Email/Abstract.php
+END
+Stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/ProductAlert/Block/Email/Stock.php
+END

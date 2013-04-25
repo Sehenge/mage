@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Invoice
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Invoice/View.php
+END
+Create.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Invoice/Create.php
+END
+Totals.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Sales/Order/Invoice/Totals.php
+END

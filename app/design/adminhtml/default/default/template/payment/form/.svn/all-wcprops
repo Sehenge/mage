@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/form
+END
+ccsave.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/form/ccsave.phtml
+END
+cc.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/form/cc.phtml
+END
+purchaseorder.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/form/purchaseorder.phtml
+END
+checkmo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/template/payment/form/checkmo.phtml
+END

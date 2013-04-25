@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/XmlConnect/controllers
+END
+CheckoutController.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/CheckoutController.php
+END
+WishlistController.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/WishlistController.php
+END
+ConfigurationController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/ConfigurationController.php
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/IndexController.php
+END
+CartController.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/CartController.php
+END
+CatalogController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/CatalogController.php
+END
+PbridgeController.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/XmlConnect/controllers/PbridgeController.php
+END
+CustomerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/CustomerController.php
+END
+ReviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/ReviewController.php
+END
+CmsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/controllers/CmsController.php
+END

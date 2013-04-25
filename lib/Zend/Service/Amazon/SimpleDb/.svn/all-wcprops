@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Amazon/SimpleDb
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Amazon/SimpleDb/Page.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Amazon/SimpleDb/Exception.php
+END
+Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Amazon/SimpleDb/Response.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Amazon/SimpleDb/Attribute.php
+END

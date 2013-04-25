@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/customer/widget
+END
+name.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/customer/widget/name.phtml
+END
+dob.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/customer/widget/dob.phtml
+END
+gender.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/customer/widget/gender.phtml
+END
+taxvat.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/customer/widget/taxvat.phtml
+END

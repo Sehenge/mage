@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source
+END
+Pickup.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Pickup.php
+END
+OriginShipment.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/OriginShipment.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Method.php
+END
+DestType.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/DestType.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Type.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Container.php
+END
+Freemethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Freemethod.php
+END
+Mode.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Mode.php
+END
+Unitofmeasure.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups/Source/Unitofmeasure.php
+END

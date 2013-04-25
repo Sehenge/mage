@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System
+END
+BackupController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/BackupController.php
+END
+ConfigController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/ConfigController.php
+END
+VariableController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/VariableController.php
+END
+DesignController.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/DesignController.php
+END
+CurrencyController.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/CurrencyController.php
+END
+AccountController.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/AccountController.php
+END
+StoreController.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/StoreController.php
+END
+CacheController.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/controllers/System/CacheController.php
+END

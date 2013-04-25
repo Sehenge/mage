@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Resource/Entity/Attribute
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Resource/Entity/Attribute/Collection.php
+END
+Set.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Resource/Entity/Attribute/Set.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Resource/Entity/Attribute/Group.php
+END
+Option.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Eav/Model/Resource/Entity/Attribute/Option.php
+END

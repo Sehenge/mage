@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/source/!svn/ver/152836/branches/1.7/app/etc
+END
+local.xml.additional
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/source/!svn/ver/152836/branches/1.7/app/etc/local.xml.additional
+END
+local.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152805/branches/1.7/app/etc/local.xml.template
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/!svn/ver/152836/branches/1.7/app/etc/config.xml
+END

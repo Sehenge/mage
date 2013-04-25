@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io
+END
+Ftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/Ftp.php
+END
+Sftp.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/Sftp.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/Exception.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/File.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Io/Abstract.php
+END

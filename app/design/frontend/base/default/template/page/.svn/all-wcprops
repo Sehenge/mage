@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page
+END
+print.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/print.phtml
+END
+2columns-right.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/2columns-right.phtml
+END
+1column.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/1column.phtml
+END
+empty.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/empty.phtml
+END
+redirect.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/redirect.phtml
+END
+3columns.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/3columns.phtml
+END
+popup.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/popup.phtml
+END
+2columns-left.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/page/2columns-left.phtml
+END

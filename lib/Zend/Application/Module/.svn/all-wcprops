@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Application/Module
+END
+Bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Application/Module/Bootstrap.php
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Application/Module/Autoloader.php
+END

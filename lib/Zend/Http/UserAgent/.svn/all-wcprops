@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Exception.php
+END
+Device.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Device.php
+END
+Spam.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Spam.php
+END
+Console.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Console.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Feed.php
+END
+Storage.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Storage.php
+END
+Checker.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Checker.php
+END
+Probe.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Probe.php
+END
+Mobile.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Mobile.php
+END
+Desktop.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Desktop.php
+END
+Offline.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Offline.php
+END
+AbstractDevice.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/AbstractDevice.php
+END
+Bot.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Bot.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Text.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Validator.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Http/UserAgent/Email.php
+END

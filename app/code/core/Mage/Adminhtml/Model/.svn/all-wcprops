@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Adminhtml/Model
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/Extension.php
+END
+Url.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/Url.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/Session.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/156553/branches/1.7/app/code/core/Mage/Adminhtml/Model/Config.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/Observer.php
+END

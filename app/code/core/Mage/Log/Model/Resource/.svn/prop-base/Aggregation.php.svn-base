@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 643
+/base/magento/branches/mmdb/app/code/core/Mage/Log/Model/Resource/Aggregation.php:110484,110546,110593,110595,110728
+/base/magento/branches/sandbox/psc/app/code/core/Mage/Log/Model/Resource/Aggregation.php:105679-110590
+/base/magento/qa/1.6.x/app/code/core/Mage/Log/Model/Resource/Aggregation.php:110740-110742,111291,112299-112932,112972-113681,113692,113710,113728,113795-113931,113951,113993-114003,114026-114063,115948-116891,116902-127595
+/base/magento/qa/tags/1.6.0.0-rc3/app/code/core/Mage/Log/Model/Resource/Aggregation.php:116892-118187
+/base/magento/qa/tags/1.6.2.0/app/code/core/Mage/Log/Model/Resource/Aggregation.php:129741-140931
+END

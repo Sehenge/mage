@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Tag/Grid
+END
+Products.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Tag/Grid/Products.php
+END
+Customers.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Tag/Grid/Customers.php
+END
+Pending.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Tag/Grid/Pending.php
+END
+All.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Tag/Grid/All.php
+END

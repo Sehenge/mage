@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard
+END
+Graph.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Graph.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Abstract.php
+END
+Bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Bar.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Grid.php
+END
+Totals.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Totals.php
+END
+Diagrams.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Diagrams.php
+END
+Sales.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Sales.php
+END
+Grids.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Block/Dashboard/Grids.php
+END

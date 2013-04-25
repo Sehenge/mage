@@ -1,0 +1,83 @@
+10
+
+dir
+164466
+http://svn.magentocommerce.com/source/branches/1.7/app/code/core/Mage/Catalog
+http://svn.magentocommerce.com/source
+
+
+
+2012-06-20T15:23:49.065646Z
+156553
+vladimir.pelipenko
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee4975a1-dc2a-0410-ac7a-f60e980b784d
+
+Helper
+dir
+
+sql
+dir
+
+Model
+dir
+
+Exception.php
+file
+
+
+
+
+2013-02-19T00:21:26.000000Z
+ecbe9735cd01ddc2cdf76b7bb937d97a
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1029
+
+controllers
+dir
+
+data
+dir
+
+Block
+dir
+
+etc
+dir
+

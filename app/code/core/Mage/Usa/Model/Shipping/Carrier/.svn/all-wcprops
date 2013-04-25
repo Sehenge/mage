@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier
+END
+Usps.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps.php
+END
+Fedex.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Fedex.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Abstract.php
+END
+Dhl.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl.php
+END
+Ups.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups.php
+END

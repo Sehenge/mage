@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Filesystem/Iterator
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Filesystem/Iterator/File.php
+END
+Filter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Filesystem/Iterator/Filter.php
+END

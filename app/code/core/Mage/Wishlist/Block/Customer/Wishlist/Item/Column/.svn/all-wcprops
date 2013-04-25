@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Wishlist/Block/Customer/Wishlist/Item/Column
+END
+Cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Wishlist/Block/Customer/Wishlist/Item/Column/Cart.php
+END
+Remove.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Wishlist/Block/Customer/Wishlist/Item/Column/Remove.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Wishlist/Block/Customer/Wishlist/Item/Column/Comment.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Wishlist/Block/Customer/Wishlist/Item/Column/Image.php
+END

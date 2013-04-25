@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping
+END
+Allspecificcountries.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allspecificcountries.php
+END
+Allowedmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allowedmethods.php
+END
+Allmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allmethods.php
+END
+Flatrate.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Flatrate.php
+END
+Taxclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Taxclass.php
+END
+Tablerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Tablerate.php
+END

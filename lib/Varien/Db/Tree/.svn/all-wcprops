@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Db/Tree
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Db/Tree/Exception.php
+END
+NodeSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Db/Tree/NodeSet.php
+END
+Node.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Db/Tree/Node.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Framework/Registry
+END
+EnabledInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Framework/Registry/EnabledInterface.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Framework/Registry/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Framework/Registry/Interface.php
+END

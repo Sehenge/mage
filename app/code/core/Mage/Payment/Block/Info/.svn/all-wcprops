@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info
+END
+Checkmo.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Checkmo.php
+END
+Banktransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Banktransfer.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Container.php
+END
+Ccsave.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Ccsave.php
+END
+Cc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Cc.php
+END
+Purchaseorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Payment/Block/Info/Purchaseorder.php
+END

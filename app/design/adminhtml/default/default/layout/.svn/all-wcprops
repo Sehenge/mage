@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout
+END
+cms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/cms.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/main.xml
+END
+admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/admin.xml
+END
+connect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/connect.xml
+END
+api2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/api2.xml
+END
+adminnotification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/adminnotification.xml
+END
+pagecache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/pagecache.xml
+END
+centinel.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/centinel.xml
+END
+customer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/customer.xml
+END
+dataflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/dataflow.xml
+END
+captcha.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/captcha.xml
+END
+rss.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/rss.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/index.xml
+END
+bundle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/bundle.xml
+END
+xmlconnect.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/xmlconnect.xml
+END
+catalog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/catalog.xml
+END
+importexport.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152805/branches/1.7/app/design/adminhtml/default/default/layout/importexport.xml
+END
+oauth.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/oauth.xml
+END
+currencysymbol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/currencysymbol.xml
+END
+authorizenet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/authorizenet.xml
+END
+widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/widget.xml
+END
+downloadable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/downloadable.xml
+END
+promo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/promo.xml
+END
+newsletter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/newsletter.xml
+END
+giftmessage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/giftmessage.xml
+END
+search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/search.xml
+END
+sales.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/sales.xml
+END
+compiler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/compiler.xml
+END
+tag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/tag.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/report.xml
+END
+moneybookers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/design/adminhtml/default/default/layout/moneybookers.xml
+END

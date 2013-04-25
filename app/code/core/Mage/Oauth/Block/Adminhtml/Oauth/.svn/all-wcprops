@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth
+END
+Authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/Authorize.php
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/Consumer.php
+END
+AuthorizedTokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/AuthorizedTokens.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/controllers
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/controllers/IndexController.php
+END
+ListController.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/controllers/ListController.php
+END
+ProductController.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/controllers/ProductController.php
+END
+CustomerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Tag/controllers/CustomerController.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Paypal/Model/System/Config/Backend
+END
+Cert.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Paypal/Model/System/Config/Backend/Cert.php
+END
+Cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Paypal/Model/System/Config/Backend/Cron.php
+END
+MerchantCountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Paypal/Model/System/Config/Backend/MerchantCountry.php
+END

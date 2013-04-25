@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Analysis
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Analysis/Token.php
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Analysis/Analyzer.php
+END
+TokenFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Search/Lucene/Analysis/TokenFilter.php
+END

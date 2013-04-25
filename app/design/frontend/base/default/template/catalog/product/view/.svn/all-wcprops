@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view
+END
+media.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/media.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/price.phtml
+END
+price_clone.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/price_clone.phtml
+END
+description.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/description.phtml
+END
+addtocart.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/addtocart.phtml
+END
+attributes.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/attributes.phtml
+END
+additional.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/additional.phtml
+END
+tierprices.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/tierprices.phtml
+END
+addto.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/addto.phtml
+END
+options.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/catalog/product/view/options.phtml
+END

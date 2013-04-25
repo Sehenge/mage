@@ -1,0 +1,80 @@
+10
+
+dir
+164466
+http://svn.magentocommerce.com/source/branches/1.7/app/code/core/Mage/Api2
+http://svn.magentocommerce.com/source
+
+
+
+2012-06-20T15:23:49.065646Z
+156553
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee4975a1-dc2a-0410-ac7a-f60e980b784d
+
+Helper
+dir
+
+sql
+dir
+
+Model
+dir
+
+Exception.php
+file
+
+
+
+
+2013-02-19T00:21:22.000000Z
+ad210d8b992341d8f76992d754654d32
+2012-04-23T15:11:26.721257Z
+152836
+vladimir.pelipenko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1490
+
+controllers
+dir
+
+Block
+dir
+
+etc
+dir
+

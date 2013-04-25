@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Exception.php
+END
+Finding.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Finding.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Service/Ebay/Abstract.php
+END

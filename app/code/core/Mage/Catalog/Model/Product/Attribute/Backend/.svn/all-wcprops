@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend
+END
+Startdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Startdate.php
+END
+Urlkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Urlkey.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Boolean.php
+END
+Groupprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php
+END
+Recurring.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Recurring.php
+END
+Msrp.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Msrp.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Price.php
+END
+Sku.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Sku.php
+END
+Tierprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Tierprice.php
+END

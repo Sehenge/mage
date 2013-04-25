@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Project/Profile/Iterator
+END
+ContextFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Project/Profile/Iterator/ContextFilter.php
+END
+EnabledResourceFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Tool/Project/Profile/Iterator/EnabledResourceFilter.php
+END

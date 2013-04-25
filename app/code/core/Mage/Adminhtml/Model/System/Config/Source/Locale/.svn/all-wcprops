@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Locale
+END
+Currency.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Locale/Currency.php
+END
+Timezone.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Locale/Timezone.php
+END
+Weekdays.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Locale/Weekdays.php
+END
+Country.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Locale/Country.php
+END

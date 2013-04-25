@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception
+END
+FtpValidationFailed.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception/FtpValidationFailed.php
+END
+FtpConnectionFailed.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception/FtpConnectionFailed.php
+END
+NotEnoughPermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception/NotEnoughPermissions.php
+END
+NotEnoughFreeSpace.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception/NotEnoughFreeSpace.php
+END
+CantLoadSnapshot.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup/Exception/CantLoadSnapshot.php
+END

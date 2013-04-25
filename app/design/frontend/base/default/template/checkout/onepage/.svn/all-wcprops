@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage
+END
+link.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/link.phtml
+END
+payment.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/payment.phtml
+END
+billing.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/billing.phtml
+END
+review.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/review.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/shipping.phtml
+END
+shipping_method.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/shipping_method.phtml
+END
+progress.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/progress.phtml
+END
+failure.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/failure.phtml
+END
+login.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/login.phtml
+END
+agreements.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/design/frontend/base/default/template/checkout/onepage/agreements.phtml
+END

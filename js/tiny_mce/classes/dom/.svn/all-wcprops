@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/Selection.js
+END
+TreeWalker.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/TreeWalker.js
+END
+Element.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/Element.js
+END
+Serializer.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/Serializer.js
+END
+ScriptLoader.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/ScriptLoader.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/Range.js
+END
+RangeUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/RangeUtils.js
+END
+TridentSelection.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/TridentSelection.js
+END
+DOMUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/DOMUtils.js
+END
+Sizzle.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/js/tiny_mce/classes/dom/Sizzle.js
+END
+EventUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/source/!svn/ver/152836/branches/1.7/js/tiny_mce/classes/dom/EventUtils.js
+END

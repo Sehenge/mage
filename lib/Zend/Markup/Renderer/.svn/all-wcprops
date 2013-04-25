@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Renderer
+END
+TokenConverterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Renderer/TokenConverterInterface.php
+END
+RendererAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Renderer/RendererAbstract.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Renderer/Exception.php
+END
+Html.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/source/!svn/ver/152805/branches/1.7/lib/Zend/Markup/Renderer/Html.php
+END

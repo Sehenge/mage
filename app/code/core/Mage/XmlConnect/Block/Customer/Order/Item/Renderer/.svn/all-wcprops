@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer
+END
+Bundle.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Bundle.php
+END
+Downloadable.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Downloadable.php
+END
+Giftcard.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Giftcard.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Default.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/XmlConnect/Block/Customer/Order/Item/Renderer/Grouped.php
+END

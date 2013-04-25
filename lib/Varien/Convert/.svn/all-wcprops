@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/source/!svn/ver/152836/branches/1.7/lib/Varien/Convert
+END
+Action.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Convert/Action.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Convert/Exception.php
+END
+Profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/source/!svn/ver/152805/branches/1.7/lib/Varien/Convert/Profile.php
+END

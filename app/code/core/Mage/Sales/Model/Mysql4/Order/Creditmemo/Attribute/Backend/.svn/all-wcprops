@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Mysql4/Order/Creditmemo/Attribute/Backend
+END
+Parent.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Mysql4/Order/Creditmemo/Attribute/Backend/Parent.php
+END
+Child.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Sales/Model/Mysql4/Order/Creditmemo/Attribute/Backend/Child.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/source/!svn/ver/156553/branches/1.7/lib/Mage
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Exception.php
+END
+Archive.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Archive.php
+END
+Backup.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/source/!svn/ver/152836/branches/1.7/lib/Mage/Backup.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/controllers/Adminhtml/Oauth
+END
+AuthorizeController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/controllers/Adminhtml/Oauth/AuthorizeController.php
+END
+ConsumerController.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/controllers/Adminhtml/Oauth/ConsumerController.php
+END
+AuthorizedTokensController.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/Oauth/controllers/Adminhtml/Oauth/AuthorizedTokensController.php
+END

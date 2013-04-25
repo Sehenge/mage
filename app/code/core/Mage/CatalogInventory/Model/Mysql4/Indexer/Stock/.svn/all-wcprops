@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/Mysql4/Indexer/Stock
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/Mysql4/Indexer/Stock/Configurable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/Mysql4/Indexer/Stock/Interface.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/Mysql4/Indexer/Stock/Default.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/source/!svn/ver/152836/branches/1.7/app/code/core/Mage/CatalogInventory/Model/Mysql4/Indexer/Stock/Grouped.php
+END
