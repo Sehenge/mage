@@ -35,7 +35,26 @@
 <?php if($_menu): ?>
 <div class="nav-container">
     <ul id="nav">
-        <?php echo $_menu ?>
+        <?php //echo $_menu ?>
+        <?php
+        $loadCategory = Mage::getModel('catalog/category')->load(3);
+        $subCategories = explode(',', $loadCategory->getChildren());
+        end($subCategories);
+        $lastKey = key($subCategories);
+        foreach ( $subCategories as $key => $subCategoryId )
+        {
+            $cat = Mage::getModel('catalog/category')->load($subCategoryId);
+
+            if($cat->getIsActive())
+            {
+                if ($lastKey !== $key) {
+                    echo '<li><a href="'.$cat->getURL().'">'.$cat->getName().'</a></li>';
+                } else {
+                    echo '<li class="last"><a href="'.$cat->getURL().'">'.$cat->getName().'</a></li>';
+                }
+            }
+        }
+        ?>
     </ul>
 </div>
 <?php endif ?>
