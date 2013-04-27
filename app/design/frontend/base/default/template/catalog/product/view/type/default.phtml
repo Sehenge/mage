@@ -28,9 +28,9 @@
 <?php $_product = $this->getProduct() ?>
 
 <?php if ($_product->isAvailable()): ?>
-    <p class="availability in-stock"><?php echo $this->__('Availability:') ?> <span><?php echo $this->__('In stock') ?></span></p>
+    <p class="availability in-stock"><?php echo $this->__('Наличие:') ?> <span style="color: green;font-weight: bold;"><?php echo $this->__('На складе') ?></span></p>
 <?php else: ?>
-    <p class="availability out-of-stock"><?php echo $this->__('Availability:') ?> <span><?php echo $this->__('Out of stock') ?></span></p>
+    <p class="availability out-of-stock"><?php echo $this->__('Наличие:') ?> <span style="color: red;font-weight: bold;"><?php echo $this->__('Нет на складе') ?></span></p>
 <?php endif; ?>
 <?php echo $this->getChildHtml('product_type_data_extra') ?>
 <?php echo $this->getPriceHtml($_product) ?>

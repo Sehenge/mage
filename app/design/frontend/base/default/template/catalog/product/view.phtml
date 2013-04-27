@@ -50,39 +50,22 @@
                 <h1><?php echo $_helper->productAttribute($_product, $_product->getName(), 'name') ?></h1>
             </div>
 
-            <?php if ($this->canEmailToFriend()): ?>
-                <p class="email-friend"><a href="<?php echo $this->helper('catalog/product')->getEmailToFriendUrl($_product) ?>"><?php echo $this->__('Email to a Friend') ?></a></p>
-            <?php endif; ?>
-
-            <?php echo $this->getReviewsSummaryHtml($_product, false, true)?>
-            <?php echo $this->getChildHtml('alert_urls') ?>
+            <?php //echo $this->getChildHtml('alert_urls') ?>
             <?php echo $this->getChildHtml('product_type_data') ?>
             <?php echo $this->getTierPriceHtml() ?>
-            <?php echo $this->getChildHtml('extrahint') ?>
+            <?php //echo $this->getChildHtml('extrahint') ?>
 
             <?php if (!$this->hasOptions()):?>
                 <div class="add-to-box">
                     <?php if($_product->isSaleable()): ?>
                         <?php echo $this->getChildHtml('addtocart') ?>
-                        <?php if( $this->helper('wishlist')->isAllow() || $_compareUrl=$this->helper('catalog/product_compare')->getAddUrl($_product)): ?>
-                            <span class="or"><?php echo $this->__('OR') ?></span>
-                        <?php endif; ?>
                     <?php endif; ?>
-                    <?php echo $this->getChildHtml('addto') ?>
                 </div>
-                <?php echo $this->getChildHtml('extra_buttons') ?>
             <?php elseif (!$_product->isSaleable()): ?>
                 <div class="add-to-box">
                     <?php echo $this->getChildHtml('addto') ?>
                 </div>
             <?php endif; ?>
-
-            <?php if ($_product->getShortDescription()):?>
-                <div class="short-description">
-                    <h2><?php echo $this->__('Quick Overview') ?></h2>
-                    <div class="std"><?php echo $_helper->productAttribute($_product, nl2br($_product->getShortDescription()), 'short_description') ?></div>
-                </div>
-            <?php endif;?>
 
             <?php echo $this->getChildHtml('other');?>
 
@@ -94,6 +77,15 @@
 
         <div class="product-img-box">
             <?php echo $this->getChildHtml('media') ?>
+        </div>
+
+        <div class="product-description">
+            <?php foreach ($this->getChildGroup('detailed_info', 'getChildHtml') as $alias => $html):?>
+                <?php
+                $html = preg_replace('/Details/', 'Описание:', $html);
+                echo $html;
+                ?>
+            <?php endforeach;?>
         </div>
 
         <div class="clearer"></div>
@@ -155,15 +147,51 @@
     </div>
 
     <div class="product-collateral">
-<?php foreach ($this->getChildGroup('detailed_info', 'getChildHtml') as $alias => $html):?>
-        <div class="box-collateral <?php echo "box-{$alias}"?>">
-            <?php if ($title = $this->getChildData($alias, 'title')):?>
-            <h2><?php echo $this->escapeHtml($title); ?></h2>
-            <?php endif;?>
-            <?php echo $html; ?>
-        </div>
-<?php endforeach;?>
-        <?php echo $this->getChildHtml('upsell_products') ?>
-        <?php echo $this->getChildHtml('product_additional_data') ?>
+
+        <?php //echo $this->getChildHtml('upsell_products') ?>
+        <?php //echo $this->getChildHtml('product_additional_data') ?>
+<div class="block block-related">
+    <div class="block-title">
+        <strong><span><?php echo $this->__('Похожие продукты') ?></span></strong>
+    </div>
+    <div class="block-content">
+        <ol class="mini-products-list" id="block-related">
+       <?php
+            $i = 0;
+            $cat_id = $_product->getCategoryId();
+
+            $result = array();
+            $category = new Mage_Catalog_Model_Category();
+            $category->load($cat_id);
+            $collection = $category->getProductCollection();
+            foreach ($collection as $product) {
+                $result[] = $product->getId();
+                if (++$i >= 3) {
+                    break;
+                }
+            }
+            shuffle($result);
+            $_products = array();
+            foreach ($result as $_product_id){
+                $_product = new Mage_Catalog_Model_Product();
+                $_product->load($_product_id);
+                $_products[] = $_product;
+            }
+        ?>
+
+        <?php foreach($_products as $_item): ?>
+            <li class="item">
+                <div class="product">
+                    <a href="<?php echo $_item->getProductUrl();print_r($_item); ?>" title="<?php echo $this->htmlEscape($_item->getName()) ?>" class="product-image"><img src="<?php echo $this->helper('catalog/image')->init($_item, 'thumbnail')->resize(50) ?>" width="50" height="50" alt="<?php echo $this->htmlEscape($_item->getName()) ?>" /></a>
+                    <div class="product-details">
+                        <p class="product-name"><a href="<?php echo $_item->getProductUrl() ?>"><?php echo $this->htmlEscape($_item->getName()) ?></a></p>
+                        <?php echo $this->getPriceHtml($_item, true, '-related') ?>
+                    </div>
+                </div>
+            </li>
+        <?php endforeach ?>
+        </ol>
+    </div>
+</div>
     </div>
 </div>

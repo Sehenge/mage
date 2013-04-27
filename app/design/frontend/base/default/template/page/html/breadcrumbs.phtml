@@ -30,6 +30,9 @@
         <?php foreach($crumbs as $_crumbName=>$_crumbInfo): ?>
             <li class="<?php echo $_crumbName ?>">
             <?php if($_crumbInfo['link']): ?>
+                <?php
+                $_crumbInfo['label'] = preg_replace('/Home/','Главная',$_crumbInfo['label']);
+                ?>
                 <a href="<?php echo $_crumbInfo['link'] ?>" title="<?php echo $this->htmlEscape($_crumbInfo['title']) ?>"><?php echo $this->htmlEscape($_crumbInfo['label']) ?></a>
             <?php elseif($_crumbInfo['last']): ?>
                 <strong><?php echo $this->htmlEscape($_crumbInfo['label']) ?></strong>
