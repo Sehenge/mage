@@ -230,7 +230,7 @@ class Zend_Currency
         }
 
         $value = str_replace('¤','', $value);
-        $value = $value . ' рублей';
+        $value = $value . ' руб.';
         return $value;
     }
 
