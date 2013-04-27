@@ -166,9 +166,6 @@
             $collection = $category->getProductCollection();
             foreach ($collection as $product) {
                 $result[] = $product->getId();
-                if (++$i >= 3) {
-                    break;
-                }
             }
             shuffle($result);
             $_products = array();
@@ -176,13 +173,17 @@
                 $_product = new Mage_Catalog_Model_Product();
                 $_product->load($_product_id);
                 $_products[] = $_product;
+
+                if (++$i >= 3) {
+                    break;
+                }
             }
         ?>
 
         <?php foreach($_products as $_item): ?>
             <li class="item">
                 <div class="product">
-                    <a href="<?php echo $_item->getProductUrl(); ?>" title="<?php echo $this->htmlEscape($_item->getName()) ?>" class="product-image"><img src="<?php echo $this->helper('catalog/image')->init($_item, 'thumbnail')->resize(150, 210) ?>" width="150" height="210" alt="<?php echo $this->htmlEscape($_item->getName()) ?>" /></a>
+                    <a href="<?php echo $_item->getProductUrl(); ?>" title="<?php echo $this->htmlEscape($_item->getName()) ?>" class="product-image"><img src="<?php echo $this->helper('catalog/image')->init($_item, 'thumbnail') ?>" width="150" alt="<?php echo $this->htmlEscape($_item->getName()) ?>" /></a>
                     <div class="product-details">
                         <p class="product-name"><a href="<?php echo $_item->getProductUrl() ?>"><?php echo $this->htmlEscape($_item->getName()) ?></a></p>
                         <?php echo $this->getPriceHtml($_item, true, '-related') ?>
