@@ -26,7 +26,7 @@
 /* Reset ================================================================================= */
 * { margin:0; padding:0; }
 
-body          { background: rgb(245, 245, 245); font:12px/1.55 Arial, Helvetica, sans-serif; color:#2f2f2f; text-align:center; }
+body          { /*background: rgb(245, 245, 245);*/ font:12px/1.55 Arial, Helvetica, sans-serif; color:#2f2f2f; text-align:center; }
 
 img           { border:0; vertical-align:top; }
 
@@ -36,9 +36,22 @@ a:hover       { text-decoration:none; }
 
 /* Headings */
 h1,h2,h3,
-h4,h5,h6      { margin:0 0 5px; line-height:1.35; color:#0a263c; }
-h1            { font-size:20px; font-weight:normal; }
+h4,h5,h6      {line-height:1.25; color:#0a263c; }
+h1            {
+    color: #fff;
+    font-size: 55px;
+    font-weight: normal;
+}
+h1 a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
 h2            { font-size:18px; font-weight:normal; }
+.header h2 {
+    color: #fff;
+    font-size: 14px;
+}
 h3            { font-size:16px; font-weight:bold; }
 h4            { font-size:14px; font-weight:bold; }
 h5            { font-size:12px; font-weight:bold; }
@@ -91,12 +104,14 @@ ul,ol         { list-style:none; }
 
 
 /* Layout ================================================================================ */
-.wrapper { min-width:954px; }
+.wrapper { width: 1280px;
+    margin: 0 auto;
+    border: 1px solid rgb(216, 212, 212); }
 .page {}
 .page-print { background:#fff; padding:25px 30px; text-align:left; }
 .page-empty { background:#fff; padding:20px; text-align:left; }
 .page-popup { background:#fff; padding:25px 30px; text-align:left; }
-.main-container { /*background:#fbfaf6 url(../images/bkg_main1.gif) 50% 0 no-repeat;*/ }
+.main-container { /*background:#fbfaf6 url(../images/bkg_main1.gif) 50% 0 no-repeat;*/ background: rgb(240,240,240);}
 .main { width:900px; margin:0 auto; min-height:400px; padding:25px 25px 40px; text-align:left; }
 
 /* Base Columns */
@@ -514,8 +529,8 @@ tr.summary-details-excluded { font-style:italic; }
 
 /* Header ================================================================================ */
 .logo { float:left; }
-.header-container { background: black; }
-.header { width:930px; margin:0 auto; padding:10px; text-align:right; position:relative; z-index:10; }
+.header-container { background: url("../images/bg-top.jpg") repeat-x; }
+.header { width:930px; margin:0 auto; text-align:center; position:relative; z-index:10; }
 .header .logo { float:left; margin:3px 0 10px 12px; text-decoration:none !important; }
 .header .logo strong { position:absolute; top:-999em; left:-999em; width:0; height:0; font-size:0; line-height:0; text-indent:-999em; overflow:hidden; }
 .header h1.logo { margin:0; }
@@ -1798,3 +1813,64 @@ tr.summary-details-excluded { font-style:italic; }
 /* ======================================================================================= */
 
 .guest-select {width:305px !important;}
+
+
+/* RODANIA!!! */
+/***************************************    BRANDBOX   **************************************/
+#brandbox {
+    height: 500px;
+    background: #fff;
+    /*background-image: url("http://rodania.com/images/layout/bg-bb.png");*/
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+#brandbox .container {
+    width: 890px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    height: 100%;
+    padding-top: 29px;
+}
+#slider {
+    width: 795px;
+    height: 450px;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+}
+#sliderContent {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 9000px;
+}
+#sliderContent img {
+    float: left;
+    opacity: 0.5;
+    -webkit-transition: 0.5s opacity;
+}
+
+
+.bNav {
+    position: absolute;
+    float: right;
+    z-index: 99;
+    top: 180px;
+    display: block;
+    width: 22px;
+    height: 37px;
+    background-position: center left;
+}
+.d {
+    background-position: top left;
+}
+#bLeft {
+    background-image: url("http://rodania.com/images/layout/go-left.png");
+    left: -20px;
+}
+#bRight {
+    background-image: url("http://rodania.com/images/layout/go-right.png");
+    right: -20px;
+}
