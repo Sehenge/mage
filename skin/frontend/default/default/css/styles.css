@@ -818,6 +818,7 @@ tr.summary-details-excluded { font-style:italic; }
 .products-grid { border-bottom:1px solid #d9ddd3; position:relative; }
 .products-grid.last { border-bottom:0; }
 .products-grid li.item { float:left; width:175px; padding:12px 10px 20px; }
+.products-grid li.item img { cursor: pointer;}
 .products-grid .product-image { display:block; width:135px; height:135px; margin:0 0 10px; }
 .products-grid .product-name { height: 34px; margin:0 0 5px; font-weight:bold; font-size:13px; color:#203548; }
 .products-grid .product-name a { color:#203548; }
@@ -1851,7 +1852,6 @@ tr.summary-details-excluded { font-style:italic; }
     opacity: 0.5;
     -webkit-transition: 0.5s opacity;
 }
-
 
 .bNav {
     position: absolute;
