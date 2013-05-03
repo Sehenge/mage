@@ -13,7 +13,7 @@
 //var_dump(file_get_contents('media/adfeeds/admitad_feed_1.xml'));
 $mainXml = simplexml_load_file('media/adfeeds/admitad_feed_1.xml');
 $head = array('store','websites','attribute_set','type','category_ids','sku','has_options','name','url_key','country_of_manufacture','msrp_enabled','msrp_display_actual_price_type','meta_title','meta_description','image','small_image','thumbnail','custom_design','page_layout','options_container','gift_message_available','url_path','image_label','small_image_label','thumbnail_label','weight','price','special_price','msrp','status','visibility','enable_googlecheckout','tax_class_id','is_recurring','description','short_description','meta_keyword','custom_layout_update','news_from_date','news_to_date','special_from_date','special_to_date','custom_design_from','custom_design_to','qty','min_qty','use_config_min_qty','is_qty_decimal','backorders','use_config_backorders','min_sale_qty','use_config_min_sale_qty','max_sale_qty','use_config_max_sale_qty','is_in_stock','low_stock_date','notify_stock_qty','use_config_notify_stock_qty','manage_stock','use_config_manage_stock','stock_status_changed_auto','use_config_qty_increments','qty_increments','use_config_enable_qty_inc','enable_qty_increments','is_decimal_divided','stock_status_changed_automatically','use_config_
-enable_qty_increments','product_name','store_id','product_type_id','product_status_changed','product_changed_websites','url','acolor','agender','amaterial','asize');
+enable_qty_increments','product_name','store_id','product_type_id','product_status_changed','product_changed_websites','url','acolor','agender','material','asize','vendor','model','typeprefix');
 $fp = fopen('var/import/magento_feed.csv', 'w');
 fputcsv($fp, $head);
 //print_r($mainXml->shop[0]->offers[0]->offer[0]);
@@ -28,7 +28,10 @@ foreach ($mainXml->shop[0]->offers[0] as $offer) {
         $specialPrice = '';
         $description = $offer->description;
         $url = $offer->url;
-    $gender = $size = $material = $color = '';
+        $gender = $size = $material = $color = $typePrefix = $vendor = $model = '';
+        $vendor = $offer->vendor;
+        $model = $offer->model;
+        $typePrefix = $offer->typePrefix;
     foreach ($offer->param as $param) {
         if ($param['name'] == 'пол') {
             $gender = $param[0];
@@ -43,7 +46,7 @@ foreach ($mainXml->shop[0]->offers[0] as $offer) {
         echo ++$i, ' --- ', $image, "\n";
         $content = array('admin','base','Default','simple',$categories, $sku,'0',$name,'','','use config','Use config','','',$image,$image,$image,'','No layout updates','Block agter Info Column',
                          'No','','','','','1',$price,$specialPrice,'','Enabled','Catalog, Search','Yes','None','No',$description,'','','','','','','','','','1','0','1','0','0','1','1','1','0','1','0',
-                         '','','1','0','0','1','1','0','1','0','0','1','1',$name,'0','simple',$url,$color,$gender,$material,$size);
+                         '','','1','0','0','1','1','0','1','0','0','1','1',$name,'0','simple',$url,$color,$gender,$material,$size,$vendor,$model,$typePrefix);
         fputcsv($fp, $content);
     //}
 }
