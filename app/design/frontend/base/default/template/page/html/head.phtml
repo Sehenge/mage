@@ -43,23 +43,3 @@
 <?php echo $this->getChildHtml() ?>
 <?php echo $this->helper('core/js')->getTranslatorScript() ?>
 <?php echo $this->getIncludes() ?>
-<!-- BEGIN GOOGLE ANALYTICS CODE -->
-<script type='text/javascript'>
-    //<![CDATA[
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
-    })();
-
-    var _gaq = _gaq || [];
-    var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-    _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-
-    _gaq.push(['_setAccount', 'UA-40629162-1']);
-    _gaq.push(['_trackPageview']);
-
-
-    //]]>
-</script>
-<!-- END GOOGLE ANALYTICS CODE -->
