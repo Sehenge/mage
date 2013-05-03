@@ -93,6 +93,8 @@
             <?php echo $this->getChildChildHtml('container2', '', true, true) ?>
         <?php endif;?>
     </form>
+
+        <?php print_r(Mage::registry('current_category')->getDescription()); ?>
     </div>
 
     <div class="product-collateral">
