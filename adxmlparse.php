@@ -46,7 +46,7 @@ foreach ($mainXml->shop[0]->offers[0] as $offer) {
         echo ++$i, ' --- ', $image, "\n";
         $content = array('admin','base','Default','simple',$categories, $sku,'0',$name,'','','use config','Use config','','',$image,$image,$image,'','No layout updates','Block agter Info Column',
                          'No','','','','','1',$price,$specialPrice,'','Enabled','Catalog, Search','Yes','None','No',$description,'','','','','','','','','','1','0','1','0','0','1','1','1','0','1','0',
-                         '','','1','0','0','1','1','0','1','0','0','1','1',$name,'0','simple',$url,$color,$gender,$material,$size,$vendor,$model,$typePrefix);
+                         '','','1','0','0','1','1','0','1','0','0','1','1',$name,'0','simple','','',$url,$color,$gender,$material,$size,$vendor,$model,$typePrefix);
         fputcsv($fp, $content);
     //}
 }
