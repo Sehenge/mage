@@ -51,3 +51,8 @@ function bR(){
         gotoPanel(cP);
     }
 }
+
+$(window).load(function(){
+    //console.log(1);
+    $(".main").height($(window).height() - 251);
+})

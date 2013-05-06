@@ -26,7 +26,13 @@
 ?>
 <div class="footer-container">
     <div class="footer">
-        <?php echo $this->getChildHtml() ?>
+        <ul class="links">
+            <li class="first"><a href="#">О нас</a></li>
+            <li><a href="#">Доставка</a></li>
+            <li class="last"><a href="/contacts/">Помощь</a></li>
+        </ul>
+        <?php //echo $this->getChildHtml() ?>
+
         <address><?php echo $this->getCopyright() ?></address>
     </div>
 </div>
