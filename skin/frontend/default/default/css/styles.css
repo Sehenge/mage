@@ -1866,10 +1866,10 @@ tr.summary-details-excluded { font-style:italic; }
     background-position: top left;
 }
 #bLeft {
-    background-image: url("http://rodania.com/images/layout/go-left.png");
+    background-image: url("../images/go-left.png");
     left: -20px;
 }
 #bRight {
-    background-image: url("http://rodania.com/images/layout/go-right.png");
+    background-image: url("../images/go-right.png");
     right: -20px;
 }
