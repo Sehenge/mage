@@ -1733,7 +1733,7 @@ tr.summary-details-excluded { font-style:italic; }
 .footer address a:hover { text-decoration:none; }
 .footer ul { display:inline; }
 .footer ul.links { display:block; }
-.footer li { display:inline; background:url(../images/bkg_pipe2.gif) 100% 60% no-repeat; padding:0 7px 0 4px; }
+.footer li { display:inline; padding:0 7px 0 4px; }
 .footer li.last { background:none !important; padding-right:0 !important; }
 .footer-container .bottom-container { margin:0 0 5px; }
 /* ======================================================================================= */

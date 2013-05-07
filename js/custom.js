@@ -6,9 +6,6 @@
  * To change this template use File | Settings | File Templates.
  */
 
-/*************************     BRANDBOX SLIDER   *******************************/
-
-
 var cP = 1;
 if($('#brandbox').length){
     var tP = $('#sliderContent').find("img").length;
@@ -20,12 +17,9 @@ if($('#brandbox').length){
     })
 }
 
-
 function gotoPanel(id){
-        console.log(id + ' ' + cP + ' ' + tP);
         $('#sliderContent').animate({left: -(800 * (id-1))}, 400);
 }
-
 
 function bL(){
     if(cP != 1){
@@ -39,6 +33,7 @@ function bL(){
         gotoPanel(cP);
     }
 }
+
 function bR(){
     if(cP != tP){
         if (cP == tP - 1) {
@@ -53,6 +48,5 @@ function bR(){
 }
 
 $(window).load(function(){
-    //console.log(1);
     $(".main").height($(window).height() - 251);
 })
