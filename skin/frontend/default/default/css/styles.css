@@ -219,7 +219,7 @@ p.required { font-size:11px; text-align:right; color:rgb(228, 71, 115); }
 .notice-msg { border-color:#fcd344; background-color:#fafaec; background-image:url(../images/i_msg-note.gif); color:#3d6611; }
 
 /* BreadCrumbs */
-.breadcrumbs { font-size:11px; line-height:1.25; margin:0 0 13px; }
+.breadcrumbs { font-size:11px; line-height:1.25;margin: 0 auto 13px;width: 900px;}
 .breadcrumbs li { display:inline; }
 .breadcrumbs li strong { font-weight:bold; }
 
@@ -787,7 +787,7 @@ tr.summary-details-excluded { font-style:italic; }
 .add-to-box .add-to-links li .separator { display:none !important; }
 
 
-.product-view { border:1px solid #c4c6c8; }
+.product-view { border:1px solid #c4c6c8;width:900px;margin:0 auto;}
 
 .product-essential { padding:25px; background:#fff; }
 .product-essential h2 { font:bold 13px/1.35 Arial, Helvetica, sans-serif; }
