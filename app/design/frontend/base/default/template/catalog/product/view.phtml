@@ -103,7 +103,6 @@
     <div class="block-content">
         <ol class="mini-products-list" id="block-related">
        <?php
-            $i = 0;
             $cat_id = $_product->getCategoryId();
 
             $result = array();
@@ -120,7 +119,7 @@
                 $_product->load($_product_id);
                 $_products[] = $_product;
 
-                if (++$i >= 3) {
+                if (sizeof($_products) >= 3) {
                     break;
                 }
             }
