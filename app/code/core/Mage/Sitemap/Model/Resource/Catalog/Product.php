@@ -61,13 +61,14 @@ class Mage_Sitemap_Model_Resource_Catalog_Product extends Mage_Core_Model_Resour
      * Add attribute to filter
      *
      * @param int $storeId
-     * @param string $attributeCode
+     * @param string $attributeCode_ignore_category
      * @param mixed $value
      * @param string $type
      * @return Zend_Db_Select
      */
     protected function _addFilter($storeId, $attributeCode, $value, $type = '=')
     {
+
         if (!isset($this->_attributesCache[$attributeCode])) {
             $attribute = Mage::getSingleton('catalog/product')->getResource()->getAttribute($attributeCode);
 
@@ -183,7 +184,14 @@ class Mage_Sitemap_Model_Resource_Catalog_Product extends Mage_Core_Model_Resour
     {
         $product = new Varien_Object();
         $product->setId($productRow[$this->getIdFieldName()]);
-        $productUrl = !empty($productRow['url']) ? $productRow['url'] : 'catalog/product/view/id/' . $product->getId();
+        if (!empty($productRow['url'])) {
+            $productDetails = Mage::getModel('catalog/product')->load($product->getData('id'));
+            $_categories = $productDetails->getCategoryIds();
+            $_category = Mage::getModel('catalog/category')->load($_categories[1]);
+            $productUrl = $_category->getUrlPath().$productDetails->getUrlPath();
+        } else {
+            $productUrl = 'catalog/product/view/id/' . $product->getId();
+        }
         $product->setUrl($productUrl);
         return $product;
     }
