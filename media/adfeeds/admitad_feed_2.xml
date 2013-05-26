@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2013-05-26 18-03">
+<shop>
+<currencies>
+    <currency id="RUB" rate="1.00"/>
+    <currency id="USD" rate="31.34"/>
+    <currency id="EUR" rate="40.54"/>
+</currencies>
+<categories>
+	<category id="1702">Все для женщин</category>
+	<category id="1729" parentId="1702">Одежда</category>
+	<category id="1796" parentId="1729">Белье </category>
+	<category id="1799" parentId="1796">Боди</category>
+</categories>
+<offers><offer id="2986685" original_id="240650" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m240650.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/9/b/9b5562c0-240650.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/5/e/5e51da3b-240650.jpg</thumbnail>
+	<description>Боди. С длинными рукавами. Трикотаж с моделирующим эффектом. Не выделяется под одеждой. На кнопках внизу.</description>
+	<model>Боди</model>
+	<price>999.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1368500528</modified_time>
+	<param name="цвет">черный</param>
+	<param name="размер">L</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/e/8/7/342665_scoop.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="7181506" original_id="236032" available="false">
+	<name>Кофточка, 2 штуки H.I.S.</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FKoftochka%2C-2-shtuki__m236032.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/0/a/0a0006ac-236032.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/1/d/1d809413-236032.jpg</thumbnail>
+	<description>Кофточка, 2 штуки. С длинными рукавами. 2 модели в тонкий или двойной рубчик. Красивый круглый вырез с небольшой планкой с пуговицами спереди. Слегка приталенный покрой. Длина ок. 64 см. Машинная стирка. Тонкий рубчик: арт.549825 арт.490522 арт.647480 арт.549534 Двойной рубчик: арт.449984 арт.549891 арт.718598 арт.549856</description>
+	<model>Кофточка, 2 штуки</model>
+	<price>999.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/a/c/6/4194843_mmdb.jpg</picture_orig>
+	<vendor>H.I.S.</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="7194830" original_id="259144" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m259144.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/7/3/73d57b06-259144.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/b/e/be69f918-259144.jpg</thumbnail>
+	<description>Женское белье боди. На косточках, полупрозрачное кружево, уплотненные чашечки, вставки спереди, на спинке и по бокам из блестящего материала.</description>
+	<model>Боди</model>
+	<price>999.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">черный</param>
+	<param name="размер">70</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/4/6/b/7048799_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="11739177" original_id="233407" available="false">
+	<name>Топ</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FTop__m233407.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/1/0/10162d14-233407.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/2/9/298d9666-233407.jpg</thumbnail>
+	<description>Топ с бесшовными чашечками. Тонкое кружево на декольте и бретелях, эластичная кайма под грудью. Бретели регулируются сзади.</description>
+	<model>Топ</model>
+	<price>1299.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1369362786</modified_time>
+	<param name="цвет">белый,белый</param>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/HD_small/7/2/8/728170_1.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="12738343" original_id="240696" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m240696.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/6/1/619cbbae-240696.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/0/4/044136f2-240696.jpg</thumbnail>
+	<oldprice>4999.00</oldprice>
+	<description>Боди. BODY WRAP - эксклюзивное предложение от создателей коллекции "Moda Romantica". Инновационная технология, создающая необходимую степень усиления для каждой зоны. Мягкие чашечки на косточках, съемные бретели.</description>
+	<model>Боди</model>
+	<price>2499.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1369017066</modified_time>
+	<param name="цвет">черный</param>
+	<param name="размер">L</param>
+	<param name="старая цена">4999.00</param>
+	<param name="скидка">50</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/4/6/0/342719_scoop.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="13358864" original_id="238566" available="false">
+	<name>Моделирующее боди, 2 штуки, NUANCE</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FModeliruyushhee-bodi%2C-2-shtuki%2C__m238566.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/8/c/8c02bfb8-238566.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/7/9/79c570b9-238566.jpg</thumbnail>
+	<description>От NUANCE. 1х розовое боди + 1х черный вариант. Чашечки с эластичным кружевом и вышивкой, на косточках. Регулируемые бретели. Внизу застежка на крючки. Хлопковая ластовица.</description>
+	<model>Моделирующее боди, 2 штуки,</model>
+	<price>2199.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1369362786</modified_time>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/4/f/0/1377382_mmdb.jpg</picture_orig>
+	<vendor>NUANCE</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="14368191" original_id="240090" available="false">
+	<name>Топ "Katja" Triumph</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FTop-Katja__m240090.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/e/a/eaf443c4-240090.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/4/3/438b28d0-240090.jpg</thumbnail>
+	<oldprice>999.00</oldprice>
+	<description>Топ "Katja" TRIUMPH. С комфортными чашечками и регулируемыми бретелями.</description>
+	<model>Топ "Katja"</model>
+	<price>599.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">белый</param>
+	<param name="размер">75</param>
+	<param name="старая цена">999.00</param>
+	<param name="скидка">40</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/4/4/6/2966733_mmdb.jpg</picture_orig>
+	<vendor>Triumph</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="14509813" original_id="236342" available="false">
+	<name>Майка, 5 штук NONAMES</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Fclassic%2FWoman_collection%2FWomen_underwear%2FWomen_body%2FMajka%2C-5-shtuk__m236342.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/8/0/80838c45-236342.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/b/b/bbf12f19-236342.jpg</thumbnail>
+	<description>Майка, 5 штук, тонкий рубчик, окантовка, 2 цветовые гаммы, а также черный или белый набор. Длина ок. 65 см. Машинная стирка.</description>
+	<model>Майка, 5 штук</model>
+	<price>999.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="размер">32</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/c/c/2/6854683_mmdb.jpg</picture_orig>
+	<vendor>NONAMES</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15098939" original_id="252431" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m252431.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/2/3/23ea5792-252431.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/d/2/d2ebde3c-252431.jpg</thumbnail>
+	<description>Боди. Длинные рукава, широкий круглый вырез. Внизу на застежке.</description>
+	<model>Боди</model>
+	<price>799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1369276344</modified_time>
+	<param name="цвет">белый,серый,синий,синий,черный</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/3/5/1/6347143_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15583605" original_id="258959" available="false">
+	<name>Моделирующая комбинация</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FModeliruyushhaya-kombinaciya__m258959.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/f/4/f4c4a6f7-258959.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/d/4/d4ba8ea7-258959.jpg</thumbnail>
+	<description>Моделирующая комбинация. Создает очаровательный силуэт, визуально моделирует область живота и талии.</description>
+	<model>Моделирующая комбинация.</model>
+	<price>1799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1367116371</modified_time>
+	<param name="цвет">телесный,черный</param>
+	<param name="размер">36</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/c/9/8/7046672_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15583822" original_id="262274" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m262274.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/a/8/a8b702b2-262274.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/5/7/577f7972-262274.jpg</thumbnail>
+	<description>Боди. Уплотненные чашечки на косточках. Из полупрозрачного материала, чашечки и вставка спереди из благородного двухцветного кружева.</description>
+	<model>Боди.</model>
+	<price>999.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1369103548</modified_time>
+	<param name="цвет">синий,черный</param>
+	<param name="размер">80</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/1/8/3/7049235_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15729177" original_id="717981" available="true">
+	<name>Боди ICHI</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fichi-bodi-ic314eweu394%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/6/d/6d417f2b-717981.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/1/d/1d2884eb-717981.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>4092-40</vendorCode>
+	<model>ICHI IC314EWEU394</model>
+	<delivery>true</delivery>
+	<price>1620.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1367245406</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Китай</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="INT">M,L,XL</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">черный</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/I/C/IC314EWEU394_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/I/C/IC314EWEU394_2.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/I/C/IC314EWEU394_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/I/C/IC314EWEU394_7.jpg</picture_orig>
+	<vendor>Ichi</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15734905" original_id="702191" available="true">
+	<name>Боди Vero Moda Very</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fveromodavery-bodi-ve002eweq072%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/e/7/e7c61e8c-702191.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/b/1/b11618ba-702191.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>10086336</vendorCode>
+	<model>Vero Moda Very VE002EWEQ072</model>
+	<delivery>true</delivery>
+	<price>1460.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1368922991</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Турция</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="GER">38</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">черный</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWEQ072_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWEQ072_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWEQ072_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWEQ072_7.jpg</picture_orig>
+	<vendor>Vero Moda Very</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15915106" original_id="234963" available="false">
+	<name>Майка PETITE FLEUR</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FMajka__m234963.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/d/c/dce48899-234963.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/6/b/6bacb96c-234963.jpg</thumbnail>
+	<description>Майка. В выгодной упаковке по 6 штук. Машинная стирка.</description>
+	<model>Майка</model>
+	<price>1299.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1366079583</modified_time>
+	<param name="размер">34</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/2/7/0/1742463_mmdb.jpg</picture_orig>
+	<vendor>PETITE FLEUR</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="15915203" original_id="236417" available="false">
+	<name>Майка с кружевом PETITE FLEUR</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FMajka-s-kruzhevom__m236417.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/c/4/c46ed413-236417.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/9/c/9cda1dc5-236417.jpg</thumbnail>
+	<description>Майка с кружевом, 3 штуки в упаковке. Различные кружевные вставки спереди. Машинная стирка.</description>
+	<model>Майка с кружевом.</model>
+	<price>799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1368844243</modified_time>
+	<param name="цвет">белый</param>
+	<param name="размер">34</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/9/8/5/1742462_mmdb.jpg</picture_orig>
+	<vendor>PETITE FLEUR</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16105513" original_id="214792" available="false">
+	<name>Топ</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FTop__m214792.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/c/6/c6f89e65-214792.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/3/6/360c2de5-214792.jpg</thumbnail>
+	<description>Топ с чашечками на косточках, под ними вышитый тюль, спереди декоративный бантик и цветочная аппликация. На спинке эластичная лента для большего комфорта. Мягкие бесшовные чашечки. Бретели регулируются сзади.</description>
+	<model>Топ</model>
+	<price>1899.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">белый</param>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/b/a/d/3740306_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16105514" original_id="214797" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m214797.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/7/d/7d2f3043-214797.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/4/4/443fdb5f-214797.jpg</thumbnail>
+	<description>Боди с чашечками на косточках. Великолепная цветочная вышивка на верхней части чашечек и под ними. Великолепно сидит благодаря материалу с усилением спереди. Бретели регулируются сзади. Хлопковая ластовица, внизу на крючках.</description>
+	<model>Боди</model>
+	<price>3799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">черный</param>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/4/8/9/3728130_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16105518" original_id="214910" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m214910.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/7/f/7f423d06-214910.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/9/8/981c5812-214910.jpg</thumbnail>
+	<description>Боди - для изумительного силуэта! Идеально сидит благодаря особой отделке. Цветочная вышивка на верхней части чашечек и внизу. Чашечки разделены на 3 части, на косточках. Бретели с бантиком, регулируются сзади. Эластичные края, внизу на крючках. Хлопковая ластовица.</description>
+	<model>Боди</model>
+	<price>2199.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">белый,белый</param>
+	<param name="размер">100</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/0/6/c/3740304_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16105679" original_id="233281" available="false">
+	<name>Футболка</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FFutbolka__m233281.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/8/a/8afef6cf-233281.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/a/c/aca13f84-233281.jpg</thumbnail>
+	<description>Футболка с короткими рукавами из очень мягкого материала. С актуальной аппликацией декоративными камешками: прятать такую футболку просто жалко!</description>
+	<model>Футболка</model>
+	<price>1499.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">аква,синий</param>
+	<param name="размер">40</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/5/b/d/3728124_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16105681" original_id="233290" available="false">
+	<name>Майка</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FMajka__m233290.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/8/d/8d5a91c0-233290.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/9/e/9e040621-233290.jpg</thumbnail>
+	<description>Майка с широкими бретелями из очень мягкого материала. С актуальной аппликацией декоративными камешками: прятать такую майку просто жалко!</description>
+	<model>Майка</model>
+	<price>1199.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1366862023</modified_time>
+	<param name="цвет">аква,синий</param>
+	<param name="размер">36</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/2/a/1/3728126_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16106155" original_id="238037" available="false">
+	<name>Боди с короткими рукавами CHEER</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi-s-korotkimi-rukavami__m238037.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/e/9/e9a6d027-238037.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/5/c/5c193663-238037.jpg</thumbnail>
+	<description>Боди с короткими рукавами. Глубокий круглый вырез спереди и сзади. Внизу застежка на кнопки. Облегающий покрой. Длина ок. 72 см.</description>
+	<model>Боди с короткими рукавами</model>
+	<price>699.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">белый,черный</param>
+	<param name="размер">34</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/a/9/2/5248183_mmdb.jpg</picture_orig>
+	<vendor>CHEER</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16106533" original_id="242877" available="false">
+	<name>Майка Speidel</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FMajka__m242877.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/4/7/472a7bff-242877.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/5/8/58d992d2-242877.jpg</thumbnail>
+	<description>Майка от SPEIDEL. Роскошное кружево. Без боковых швов.</description>
+	<model>Майка</model>
+	<price>1399.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">розовый</param>
+	<param name="размер">46</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/c/2/b/4373427_mmdb.jpg</picture_orig>
+	<vendor>Speidel</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16106581" original_id="243597" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m243597.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/8/f/8f433db2-243597.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/1/4/1436b208-243597.jpg</thumbnail>
+	<description>Боди. Rosalie. Визуально моделирует более стройный силуэт. Спереди усиление, украшено кружевом. Чашечки разделены на 2 части, с эластичным кружевом. Комфортные внутренние чашечки на мягкой подкладке. Широкие бретели на мягкой подкладке в области плеч, регулируются сзади. Внизу хлопковая ластовица и застежка на крючки.</description>
+	<model>Боди</model>
+	<price>1699.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1365517817</modified_time>
+	<param name="цвет">белый,черный</param>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/b/2/d/5188618_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16106590" original_id="243716" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m243716.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/9/1/91080989-243716.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/b/0/b0899cf4-243716.jpg</thumbnail>
+	<description>Боди. Чашечки разделены на 3 части. Формирует великолепный силуэт! Тюль на декольте и боковых вставках, переходящих в широкие бретели. Бретели регулируются сзади. Спереди усиление. Внизу хлопковая ластовица и застежка на крючки.</description>
+	<model>Боди</model>
+	<price>4799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1368457869</modified_time>
+	<param name="цвет">черный</param>
+	<param name="размер">90</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/3/9/8/3663205_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16106631" original_id="244361" available="false">
+	<name>Боди</name>
+	<url>http://ad.admitad.com/goto/84582bebef68628f9fea4a2f625b4f/?ulp=http%3A%2F%2Fwww.quelle.ru%2Funderwear%2FWomen_underwear%2FWomen_body%2FBodi__m244361.html</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/515/d/e/dee4dc52-244361.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/515/f/3/f3dfdbf1-244361.jpg</thumbnail>
+	<description>Боди. Чашечки разделены на 3 части. Формирует великолепный силуэт! Тюль на декольте и боковых вставках, переходящих в широкие бретели. Бретели регулируются сзади. Спереди усиление. Внизу хлопковая ластовица и застежка на крючки.</description>
+	<model>Боди</model>
+	<price>4799.0</price>
+	<advcampaign_id>515</advcampaign_id>
+	<advcampaign_name>Quelle</advcampaign_name>
+	<modified_time>1368930684</modified_time>
+	<param name="цвет">белый</param>
+	<param name="размер">75</param>
+	<picture_orig>http://www.quelle.ru/default/produkt-images/_w355_h302_t1/r/u/mmdb/e/2/6/3048821_mmdb.jpg</picture_orig>
+	
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="16836636" original_id="600212" available="true">
+	<name>Боди SuperTrash</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fsupertrash-bodi-su787ewdu797%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/d/8/d8bd5e8c-600212.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/d/a/dac85cf5-600212.jpg</thumbnail>
+	<oldprice>3870.0</oldprice>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>bodylicious</vendorCode>
+	<model>SuperTrash SU787EWDU797</model>
+	<delivery>true</delivery>
+	<price>1740.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1369196640</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Китай</param>
+	<param name="внешний материал">нейлон</param>
+	<param name="коллекция">Осень-зима 2012/2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">черный</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/S/U/SU787EWDU797_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/S/U/SU787EWDU797_2.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/S/U/SU787EWDU797_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/S/U/SU787EWDU797_4.jpg</picture_orig>
+	<vendor>SuperTrash</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="17284784" original_id="755583" available="true">
+	<name>Боди Vero Moda</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fveromoda-bodi-ve389ewfc761%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/d/6/d6042402-755583.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/5/9/59988859-755583.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>10086653</vendorCode>
+	<model>Vero Moda VE389EWFC761</model>
+	<delivery>true</delivery>
+	<price>1120.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1368455659</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Китай</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="INT">M,S,L</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">фиолетовый</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC761_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC761_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC761_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC761_7.jpg</picture_orig>
+	<vendor>Vero Moda</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="17299983" original_id="737094" available="true">
+	<name>Боди Vero Moda Very</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fveromodavery-bodi-ve002ewfa116%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/9/c/9cd6566c-737094.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/6/1/61138d27-737094.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>10091199</vendorCode>
+	<model>Vero Moda Very VE002EWFA116</model>
+	<delivery>true</delivery>
+	<price>1490.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1368455659</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Турция</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="GER">36,38,40</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">черный</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWFA116_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWFA116_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWFA116_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE002EWFA116_7.jpg</picture_orig>
+	<vendor>Vero Moda Very</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="17314976" original_id="755584" available="true">
+	<name>Боди Vero Moda</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fveromoda-bodi-ve389ewfc762%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/3/3/33427f9e-755584.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/c/8/c833b7fa-755584.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>10086657</vendorCode>
+	<model>Vero Moda VE389EWFC762</model>
+	<delivery>true</delivery>
+	<price>1110.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1368922991</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Китай</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="INT">M,XL,S,L</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">голубой</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC762_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC762_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC762_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/V/E/VE389EWFC762_7.jpg</picture_orig>
+	<vendor>Vero Moda</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+<offer id="17851263" original_id="1071775" available="true">
+	<name>Боди Object</name>
+	<url>http://ad.admitad.com/goto/3f2779c2d468628f9fea4e8640d77b/?ulp=http%3A%2F%2Fwww.lamoda.ru%2Fclothes%2Fwomen%2Fobject-bodi-ob003ewhl537%2F</url>
+	<currencyId>RUB</currencyId>
+	<picture>http://cdn.admitad.com/products/pictures/1001/b/1/b175f823-1071775.jpg</picture>
+	<thumbnail>http://cdn.admitad.com/products/thumbnails/1001/2/7/27a995c8-1071775.jpg</thumbnail>
+	<typePrefix>Боди</typePrefix>
+	<vendorCode>23014126</vendorCode>
+	<model>Object OB003EWHL537</model>
+	<delivery>true</delivery>
+	<price>1030.0</price>
+	<advcampaign_id>1001</advcampaign_id>
+	<advcampaign_name>Lamoda</advcampaign_name>
+	<modified_time>1368455659</modified_time>
+	<param name="сезонность">Мульти</param>
+	<param name="страна-изготовитель">Китай</param>
+	<param name="коллекция">Весна-лето 2013</param>
+	<param name="возраст">Взрослый</param>
+	<param name="размер" unit="INT">XS,M,S,L</param>
+	<param name="пол">Женский</param>
+	<param name="цвет">черный</param>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/O/B/OB003EWHL537_1.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/O/B/OB003EWHL537_3.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/O/B/OB003EWHL537_6.jpg</picture_orig>
+	<picture_orig>http://lmcdn.ru/media/catalog/product/O/B/OB003EWHL537_7.jpg</picture_orig>
+	<vendor>Object</vendor>
+	<categoryId>1799</categoryId>
+</offer>
+</offers></shop></yml_catalog>
