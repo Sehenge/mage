@@ -84,11 +84,12 @@
     <?php else: ?>
 
     <?php // Grid Mode ?>
-
+<?php echo '123'; ?>
     <?php $_collectionSize = $_productCollection->count() ?>
     <?php //$_columnCount = $this->getColumnCount(); ?>
     <?php $_columnCount = 4; ?>
     <?php $i=0; foreach ($_productCollection as $_product): ?>
+    <?php echo '567'; ?>
         <?php if ($i++%$_columnCount==0): ?>
         <ul class="products-grid">
         <?php endif ?>
