@@ -173,6 +173,9 @@
 
     RewriteRule .* index.php [L]
 
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+
 </IfModule>
 
 
